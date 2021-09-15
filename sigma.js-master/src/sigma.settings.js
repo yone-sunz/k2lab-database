@@ -65,7 +65,7 @@
     //          "fixed", "proportional"
     labelSize: 'fixed',
     // {string} The ratio between the font size of the label and the node size.
-    labelSizeRatio: 1,
+    labelSizeRatio: 1.5,
     // {number} The minimum size a node must have to see its label displayed.
     labelThreshold: 4,
     // {number} The oversampling factor used in WebGL renderer.
