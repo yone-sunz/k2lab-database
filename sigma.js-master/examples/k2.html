@@ -1,0 +1,220 @@
+<!-- START SIGMA IMPORTS -->
+
+<body bgcolor="#05050a">
+
+  <head>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald&family=Roboto+Condensed&display=swap"
+      rel="stylesheet">
+  </head>
+  <div class="loaders" style="display: none;">
+    <div class="loader">
+      <div class="loader-inner ball-pulse">
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+    </div>
+  </div>
+  <script src="../src/sigma.core.js"></script>
+  <script src="../src/conrad.js"></script>
+  <script src="../src/utils/sigma.utils.js"></script>
+  <script src="../src/utils/sigma.polyfills.js"></script>
+  <script src="../src/sigma.settings.js"></script>
+  <script src="../src/classes/sigma.classes.dispatcher.js"></script>
+  <script src="../src/classes/sigma.classes.configurable.js"></script>
+  <script src="../src/classes/sigma.classes.graph.js"></script>
+  <script src="../src/classes/sigma.classes.camera.js"></script>
+  <script src="../src/classes/sigma.classes.quad.js"></script>
+  <script src="../src/classes/sigma.classes.edgequad.js"></script>
+  <script src="../src/captors/sigma.captors.mouse.js"></script>
+  <script src="../src/captors/sigma.captors.touch.js"></script>
+  <script src="../src/renderers/sigma.renderers.canvas.js"></script>
+  <script src="../src/renderers/sigma.renderers.webgl.js"></script>
+  <script src="../src/renderers/sigma.renderers.svg.js"></script>
+  <script src="../src/renderers/sigma.renderers.def.js"></script>
+  <script src="../src/renderers/webgl/sigma.webgl.nodes.def.js"></script>
+  <script src="../src/renderers/webgl/sigma.webgl.nodes.fast.js"></script>
+  <script src="../src/renderers/webgl/sigma.webgl.edges.def.js"></script>
+  <script src="../src/renderers/webgl/sigma.webgl.edges.fast.js"></script>
+  <script src="../src/renderers/webgl/sigma.webgl.edges.arrow.js"></script>
+  <script src="../src/renderers/canvas/sigma.canvas.labels.def.js"></script>
+  <script src="../src/renderers/canvas/sigma.canvas.hovers.def.js"></script>
+  <script src="../src/renderers/canvas/sigma.canvas.nodes.def.js"></script>
+  <script src="../src/renderers/canvas/sigma.canvas.edges.def.js"></script>
+  <script src="../src/renderers/canvas/sigma.canvas.edges.curve.js"></script>
+  <script src="../src/renderers/canvas/sigma.canvas.edges.arrow.js"></script>
+  <script src="../src/renderers/canvas/sigma.canvas.edges.curvedArrow.js"></script>
+  <script src="../src/renderers/canvas/sigma.canvas.edgehovers.def.js"></script>
+  <script src="../src/renderers/canvas/sigma.canvas.edgehovers.curve.js"></script>
+  <script src="../src/renderers/canvas/sigma.canvas.edgehovers.arrow.js"></script>
+  <script src="../src/renderers/canvas/sigma.canvas.edgehovers.curvedArrow.js"></script>
+  <script src="../src/renderers/canvas/sigma.canvas.extremities.def.js"></script>
+  <script src="../src/renderers/svg/sigma.svg.utils.js"></script>
+  <script src="../src/renderers/svg/sigma.svg.nodes.def.js"></script>
+  <script src="../src/renderers/svg/sigma.svg.edges.def.js"></script>
+  <script src="../src/renderers/svg/sigma.svg.edges.curve.js"></script>
+  <script src="../src/renderers/svg/sigma.svg.labels.def.js"></script>
+  <script src="../src/renderers/svg/sigma.svg.hovers.def.js"></script>
+  <script src="../src/middlewares/sigma.middlewares.rescale.js"></script>
+  <script src="../src/middlewares/sigma.middlewares.copy.js"></script>
+  <script src="../src/misc/sigma.misc.animation.js"></script>
+  <script src="../src/misc/sigma.misc.bindEvents.js"></script>
+  <script src="../src/misc/sigma.misc.bindDOMEvents.js"></script>
+  <script src="../src/misc/sigma.misc.drawHovers.js"></script>
+  <!-- END SIGMA IMPORTS -->
+  <script src="../plugins/sigma.renderers.edgeLabels/settings.js"></script>
+  <script src="../plugins/sigma.renderers.edgeLabels/sigma.canvas.edges.labels.def.js"></script>
+  <script src="../plugins/sigma.renderers.edgeLabels/sigma.canvas.edges.labels.curve.js"></script>
+  <script src="../plugins/sigma.renderers.edgeLabels/sigma.canvas.edges.labels.curvedArrow.js"></script>
+  <script src="../plugins/sigma.parsers.gexf/gexf-parser.js"></script>
+  <script src="../plugins/sigma.parsers.gexf/sigma.parsers.gexf.js"></script>
+
+  <script src="../plugins/sigma.layout.forceAtlas2/worker.js"></script>
+  <script src="../plugins/sigma.layout.forceAtlas2/supervisor.js"></script>
+  <link href="data/k2.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css">
+    body {
+      background-image: linear-gradient(0deg, transparent 63px, #333 64px), linear-gradient(90deg, transparent 63px, #333 64px);
+      background-color: #05050a;
+      background-size: 64px 64px;
+      background: radial-gradient(#1a1f25, #010101);
+    }
+  </style>
+
+  <!-- <h3><font color="#ddd">K2 Lab Database</font></h3> -->
+  <footer id="app-footer">
+    <h2 id="footer-title">Keigo Kobayashi Lab Database</h2>
+    <p id="copyright">© 2021 Kai YONEYAMA.</p>
+  </footer>
+
+  <div id="container">
+    <style>
+      #graph-container {
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        position: absolute;
+      }
+    </style>
+    <div id="graph-container"></div>
+  </div>
+  <script>
+    /**
+     * Here is just a basic example on how to properly display a graph
+     * exported from Gephi in the GEXF format.
+     *
+     * The plugin sigma.parsers.gexf can load and parse the GEXF graph file,
+     * and instantiate sigma when the graph is received.
+     *
+     * The object given as the second parameter is the base of the instance
+     * configuration object. The plugin will just add the "graph" key to it
+     * before the instanciation.
+     */
+
+    // Add a method to the graph model that returns an
+    // object with every neighbors of a node inside:
+    sigma.classes.graph.addMethod('neighbors', function (nodeId) {
+      var k,
+        neighbors = {},
+        index = this.allNeighborsIndex[nodeId] || {};
+
+      for (k in index)
+        neighbors[k] = this.nodesIndex[k];
+
+      return neighbors;
+    });
+
+    const unescape = s => s.replace(/&quot;/g, '"').replace(/&amp;/g, '&');
+
+    //var url = location.href;
+
+    var jumpToURL = function (e) {
+      var label = e.data.node.label;
+      console.log(unescape(label));
+      //if (url) {
+        window.open("https://scrapbox.io/k2lab/"+unescape(label), '_blank');
+        //console.log("Activated");
+      //}
+    }
+
+    sigma.parsers.gexf(
+      'data/k2url02.gexf',
+      {
+        container: 'graph-container'
+      },
+      function (s) {
+        // We first need to save the original colors of our
+        // nodes and edges, like this:
+        s.graph.nodes().forEach(function (n) {
+          n.color = '#eeeeee';
+          n.originalColor = n.color;
+        });
+        s.graph.edges().forEach(function (e) {
+          e.originalColor = e.color;
+        });
+
+        // When a node is clicked, we check for each node
+        // if it is a neighbor of the clicked one. If not,
+        // we set its color as grey, and else, it takes its
+        // original color.
+        // We do the same for the edges, and we only keep
+        // edges that have both extremities colored.
+        s.bind('clickNode', function (e) {
+
+          // var url = e.data.node.attributes.url;
+          // if (url) {
+          //   window.open(url, '_blank');
+          //   console.log(url);
+          // }
+
+          var nodeId = e.data.node.id,
+            toKeep = s.graph.neighbors(nodeId);
+          toKeep[nodeId] = e.data.node;
+
+          s.graph.nodes().forEach(function (n) {
+            if (toKeep[n.id])
+              n.color = '#fd7014';
+            else
+              n.color = '#393e46';
+          });
+
+          s.graph.edges().forEach(function (e) {
+            if (toKeep[e.source] && toKeep[e.target])
+              e.color = e.originalColor;
+            else
+              e.color = '#393e46';
+          });
+
+          // Since the data has been modified, we need to
+          // call the refresh method to make the colors
+          // update effective.
+          s.refresh();
+        });
+
+        s.bind("doubleClickNode", jumpToURL);
+
+        // When the stage is clicked, we just color each
+        // node and edge with its original color.
+        s.bind('clickStage', function (e) {
+          s.graph.nodes().forEach(function (n) {
+            n.color = n.originalColor;
+          });
+
+          s.graph.edges().forEach(function (e) {
+            e.color = e.originalColor;
+          });
+
+          // Same as in the previous event:
+          s.refresh();
+        });
+        s.startForceAtlas2();
+      }
+    );
+
+
+  </script>
+</body>

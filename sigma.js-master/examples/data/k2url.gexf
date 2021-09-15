@@ -1,0 +1,2754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2021-06-28">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="url" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="278" label="2015">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/2015"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-5.5771966" y="-7.193767"></viz:position>
+      </node>
+      <node id="280" label="2016">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/2016"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4.89677" y="24.7095"></viz:position>
+      </node>
+      <node id="175" label="2017">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/2017"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="10.084851" y="0.16874452"></viz:position>
+      </node>
+      <node id="154" label="2018">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/2018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="18.165827" y="-7.2847085"></viz:position>
+      </node>
+      <node id="161" label="2019">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/2019"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="14.830676" y="24.231573"></viz:position>
+      </node>
+      <node id="180" label="2020">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/2020"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="13.90618" y="-24.421797"></viz:position>
+      </node>
+      <node id="0" label="Scrapboxの使い方">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Scrapboxの使い方"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4.8010235" y="-5.5789804"></viz:position>
+      </node>
+      <node id="1" label="Thesis">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Thesis"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="22.450441" y="-21.906143"></viz:position>
+      </node>
+      <node id="2" label="00 はじめに">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/00 はじめに"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1.290545" y="-20.175962"></viz:position>
+      </node>
+      <node id="3" label="&amp;quot;Literalism Timeline&amp;quot; Resaerch">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Literalism Timeline&amp;quot; Resaerch"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-24.472387" y="-18.56617"></viz:position>
+      </node>
+      <node id="4" label="(Review) かたちは思考する">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Review) かたちは思考する"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-12.228996" y="-11.098154"></viz:position>
+      </node>
+      <node id="5" label="&amp;quot;Media Facades in Ginza&amp;quot;">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Media Facades in Ginza&amp;quot;"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2.4169903" y="-22.355616"></viz:position>
+      </node>
+      <node id="6" label="Research Template">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Research Template"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-11.862769" y="-12.19023"></viz:position>
+      </node>
+      <node id="7" label="担当">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/担当"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="11.714583" y="11.552223"></viz:position>
+      </node>
+      <node id="8" label="(Project) Countryside: The Future">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) Countryside: The Future"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-22.862139" y="21.480127"></viz:position>
+      </node>
+      <node id="9" label="(Project) Oita “WAGNER PROJECT” 2020">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) Oita “WAGNER PROJECT” 2020"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-13.41774" y="4.1022596"></viz:position>
+      </node>
+      <node id="10" label="(Project) Gordon Matta-Clark : Mutation in Space">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) Gordon Matta-Clark : Mutation in Space"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-11.786551" y="-16.998108"></viz:position>
+      </node>
+      <node id="11" label="(Note) 生成変化・自己生成について">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Note) 生成変化・自己生成について"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-9.07014" y="12.060566"></viz:position>
+      </node>
+      <node id="12" label="(Note) Editer's Note">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Note) Editer's Note"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-21.357876" y="-10.22965"></viz:position>
+      </node>
+      <node id="13" label="&amp;quot;Frederick Kiesler&amp;quot; Incorporating Time into Space—Chronological and Typological Analysis on the concept of ”Galaxy” and ”Endless”">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Frederick Kiesler&amp;quot; Incorporating Time into Space—Chronological and Typological Analysis on the concept of ”Galaxy” and ”Endless”"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="17.62311" y="-13.513633"></viz:position>
+      </node>
+      <node id="14" label="&amp;quot;Fixedness of Informal City&amp;quot; External Space Elements and Street Activities of Urban Informal Settlements: A Case Study of Dharavi, Mumbai">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Fixedness of Informal City&amp;quot; External Space Elements and Street Activities of Urban Informal Settlements: A Case Study of Dharavi, Mumbai"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="16.770935" y="-10.618099"></viz:position>
+      </node>
+      <node id="15" label="&amp;quot;Beisi Village, China&amp;quot; Common Spaces of Apartment Housing in Chinese Urban Villages -Spatial Features and Usage in Beisi Village-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Beisi Village, China&amp;quot; Common Spaces of Apartment Housing in Chinese Urban Villages -Spatial Features and Usage in Beisi Village-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="7.515251" y="-23.589857"></viz:position>
+      </node>
+      <node id="16" label="settings">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/settings"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-6.4493346" y="-15.686372"></viz:position>
+      </node>
+      <node id="17" label="Asia Field Survay">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Asia Field Survay"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-20.132105" y="-15.24936"></viz:position>
+      </node>
+      <node id="18" label="&amp;quot;Road Occupation Permit&amp;quot; A Study on the Utilization of Street Space under the Road Occupation Permit　-Through the case studies of streets utilizing the special permit within the COVID-19 situation-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Road Occupation Permit&amp;quot; A Study on the Utilization of Street Space under the Road Occupation Permit　-Through the case studies of streets utilizing the special permit within the COVID-19 situation-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="0.72186196" y="-17.945807"></viz:position>
+      </node>
+      <node id="19" label="&amp;quot;Gap Spaces&amp;quot; Research on the Mechanism and Usage of Gap Spaces in the Urban Context -Through Field Surveys of Shibuya River and Furukawa River in Tokyo">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Gap Spaces&amp;quot; Research on the Mechanism and Usage of Gap Spaces in the Urban Context -Through Field Surveys of Shibuya River and Furukawa River in Tokyo"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-9.443375" y="20.661734"></viz:position>
+      </node>
+      <node id="20" label="Research on The Process and Trend of Voluntary Ronovation -Through the Case Study of Hyperart Thomasson and Pattern Analysis of Koenji,Arakwa,yoyogi-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Research on The Process and Trend of Voluntary Ronovation -Through the Case Study of Hyperart Thomasson and Pattern Analysis of Koenji,Arakwa,yoyogi-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-5.388893" y="-3.4579256"></viz:position>
+      </node>
+      <node id="21" label="Research on Collages used in Architecture -Collage Classifications used in the Field of Art-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Research on Collages used in Architecture -Collage Classifications used in the Field of Art-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="24.34955" y="6.22087"></viz:position>
+      </node>
+      <node id="22" label="Research on the Definitions of the word “Street” used in Descriptions of Architectural Projects -Through Analysis of Project Descriptions in Shinkenchiku and Jutakutokushu publications between 1970 and 2020-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Research on the Definitions of the word “Street” used in Descriptions of Architectural Projects -Through Analysis of Project Descriptions in Shinkenchiku and Jutakutokushu publications between 1970 and 2020-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-19.829592" y="-2.4808862"></viz:position>
+      </node>
+      <node id="23" label="Reconsideration of Aldo Rossi's Analogical Method ーThrough Analysis of his Artworks and Theatrical Works in the 1970sー">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Reconsideration of Aldo Rossi's Analogical Method ーThrough Analysis of his Artworks and Theatrical Works in the 1970sー"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-18.498014" y="-14.346073"></viz:position>
+      </node>
+      <node id="24" label="A Study of Physicality in Architecture -Through Analysis of the Works by Hans Hollein, Walter Pichler, Haus-Rucker-Co, and Coop Himmelb(l)au in 1960s and 1970s-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/A Study of Physicality in Architecture -Through Analysis of the Works by Hans Hollein, Walter Pichler, Haus-Rucker-Co, and Coop Himmelb(l)au in 1960s and 1970s-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4.6289124" y="-23.278185"></viz:position>
+      </node>
+      <node id="25" label="&amp;quot;Glitches&amp;quot; Research on the Usefulness of Glitches within the Degital Designing Process  -Through observational analysis of the user’s responses to pre-programmed glitches-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Glitches&amp;quot; Research on the Usefulness of Glitches within the Degital Designing Process  -Through observational analysis of the user’s responses to pre-programmed glitches-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-13.071895" y="2.1371145"></viz:position>
+      </node>
+      <node id="26" label="&amp;quot;Generative Facade, Klong Toey&amp;quot; A study of constituent elements of the street-scape and mechanism of generation and sustainability within dense residential district – Through analysis of Bangkok’s Klongtoei 70rai area alley ways –">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Generative Facade, Klong Toey&amp;quot; A study of constituent elements of the street-scape and mechanism of generation and sustainability within dense residential district – Through analysis of Bangkok’s Klongtoei 70rai area alley ways –"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-6.075028" y="23.709757"></viz:position>
+      </node>
+      <node id="27" label="&amp;quot;Icho Danchi&amp;quot; Study on the Conditions behind Exterior Space Utilization by the Foreign Residents -Through a Case Study of Icho Housing Complex in Kanagawa Prefecture-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Icho Danchi&amp;quot; Study on the Conditions behind Exterior Space Utilization by the Foreign Residents -Through a Case Study of Icho Housing Complex in Kanagawa Prefecture-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-17.70959" y="0.6246935"></viz:position>
+      </node>
+      <node id="28" label="&amp;quot;Machi librariy&amp;quot; A study on the aspect of books being a medium and their relationship with spaces -through a Survey of Machi libraries in Tokyo-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Machi librariy&amp;quot; A study on the aspect of books being a medium and their relationship with spaces -through a Survey of Machi libraries in Tokyo-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2.0520825" y="-20.430052"></viz:position>
+      </node>
+      <node id="29" label="&amp;quot;Behaviors of singles&amp;quot; A study on behaviors and their ranges of singles population in the city – based on surveys from Sasazuka Area in Tokyo –">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Behaviors of singles&amp;quot; A study on behaviors and their ranges of singles population in the city – based on surveys from Sasazuka Area in Tokyo –"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="7.4904966" y="-14.877996"></viz:position>
+      </node>
+      <node id="30" label="“New Babylon” The Relationship Between Spatial Abstraction Techniques and Architectural Elements -Through the Analysis of the Stage Set of The Royal Shakespeare Companys’ “Romeo &amp; Juliet-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/“New Babylon” The Relationship Between Spatial Abstraction Techniques and Architectural Elements -Through the Analysis of the Stage Set of The Royal Shakespeare Companys’ “Romeo &amp; Juliet-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-17.45727" y="13.737914"></viz:position>
+      </node>
+      <node id="31" label="Expansion of Concept in Constant Niewenhuys’s New Babylon -Spacial Prospective in Artwork of the Second Half of New Babylon-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Expansion of Concept in Constant Niewenhuys’s New Babylon -Spacial Prospective in Artwork of the Second Half of New Babylon-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-11.750337" y="5.356513"></viz:position>
+      </node>
+      <node id="32" label="&amp;quot;Maarten Van Severen with OMA&amp;quot; A Research on Methodology and Philosophy behind Works of Maarten Van Severen -Through the Analysis of His Collaboration with OMA on Maison à Bordeaux-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Maarten Van Severen with OMA&amp;quot; A Research on Methodology and Philosophy behind Works of Maarten Van Severen -Through the Analysis of His Collaboration with OMA on Maison à Bordeaux-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="17.21712" y="-2.2592359"></viz:position>
+      </node>
+      <node id="33" label="&amp;quot;Gordon Matta-Clark&amp;quot; Gordon Matta-Clark’s Concept of Spacial Recognition: Through Analysis of the Photo Works and 3D Modeling of〈Building Cut〉">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Gordon Matta-Clark&amp;quot; Gordon Matta-Clark’s Concept of Spacial Recognition: Through Analysis of the Photo Works and 3D Modeling of〈Building Cut〉"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="20.735447" y="20.89527"></viz:position>
+      </node>
+      <node id="34" label="&amp;quot;Profiling with tiles&amp;quot; A study on the correlation between building types and the ways tiles are used on their facades -Based on the field survey within Shinjuku ward in Tokyo-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Profiling with tiles&amp;quot; A study on the correlation between building types and the ways tiles are used on their facades -Based on the field survey within Shinjuku ward in Tokyo-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="7.539354" y="-20.205599"></viz:position>
+      </node>
+      <node id="35" label="&amp;quot;Contrast of light&amp;quot; A Study of the Effect of Natural Light on Impressions of Indoor Space -aiming at updating evaluation parameters and quantifying the effect-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Contrast of light&amp;quot; A Study of the Effect of Natural Light on Impressions of Indoor Space -aiming at updating evaluation parameters and quantifying the effect-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-17.47969" y="-9.584623"></viz:position>
+      </node>
+      <node id="36" label="Research on the Relationship between Collective Dwelling Pattern and Private Domain in Slope Land: A Case Study of &amp;quot;Gancheon Cultural Village&amp;quot; in Busan, Korea.">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Research on the Relationship between Collective Dwelling Pattern and Private Domain in Slope Land: A Case Study of &amp;quot;Gancheon Cultural Village&amp;quot; in Busan, Korea."></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="10.326524" y="-4.123452"></viz:position>
+      </node>
+      <node id="37" label="A study on the use and the characteristics of the secondary space within music halls -Through field survey and analysis of public music halls in central Tokyo-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/A study on the use and the characteristics of the secondary space within music halls -Through field survey and analysis of public music halls in central Tokyo-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1.5512387" y="10.054794"></viz:position>
+      </node>
+      <node id="38" label="&amp;quot;Shin-Okubo Residents&amp;quot; Research on the Distribution of Living Bases and its Actual States within the Foreign Residents Concentrated Urban Area − Through the Case Study of Okubo District of Shinjuku Ward −">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Shin-Okubo Residents&amp;quot; Research on the Distribution of Living Bases and its Actual States within the Foreign Residents Concentrated Urban Area − Through the Case Study of Okubo District of Shinjuku Ward −"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2.1032956" y="-13.850846"></viz:position>
+      </node>
+      <node id="39" label="A Study on Flexible Music Consumption Activities in Urban Using the Spatial Features of FreeTekno -Through a Survey of Usage of Small and Medium-sized Clubhouses in Central Tokyo-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/A Study on Flexible Music Consumption Activities in Urban Using the Spatial Features of FreeTekno -Through a Survey of Usage of Small and Medium-sized Clubhouses in Central Tokyo-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-18.735893" y="-22.446032"></viz:position>
+      </node>
+      <node id="40" label="The tendency and characteristic of architectural projects using crowd funding">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/The tendency and characteristic of architectural projects using crowd funding"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4.8948894" y="20.418266"></viz:position>
+      </node>
+      <node id="41" label="Research on the uses of temporally suspended urban sites -Through the analysis of actual cases-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Research on the uses of temporally suspended urban sites -Through the analysis of actual cases-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="10.494213" y="-11.755487"></viz:position>
+      </node>
+      <node id="42" label="『Ugliness』 in Architecture ―Through the analysis of Robert Venturi and Rem Koolhaas―">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/『Ugliness』 in Architecture ―Through the analysis of Robert Venturi and Rem Koolhaas―"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2.4986908" y="22.696337"></viz:position>
+      </node>
+      <node id="43" label="Cedric Price’s Architectural Interpretation on Information Technology and Its Influence on Development of Works in Later Years">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Cedric Price’s Architectural Interpretation on Information Technology and Its Influence on Development of Works in Later Years"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-18.585463" y="24.849352"></viz:position>
+      </node>
+      <node id="44" label="Trait of “Japanese Squares” in Western Architectural Conception in the 1960s-70s -Through the Analysis of Works by Archigram and Cedric Price-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Trait of “Japanese Squares” in Western Architectural Conception in the 1960s-70s -Through the Analysis of Works by Archigram and Cedric Price-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="0.19214511" y="22.871447"></viz:position>
+      </node>
+      <node id="45" label="Research Template_2">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Research Template_2"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2.6242342" y="-14.470551"></viz:position>
+      </node>
+      <node id="46" label="Research on Media Facades in relation to the transition in time of Ginza facades">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Research on Media Facades in relation to the transition in time of Ginza facades"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-0.35356337" y="2.9898305"></viz:position>
+      </node>
+      <node id="47" label="A research of the feasibility of artificial intelligence in the process of architectural design ―through the comparative analysis of shape synthesis by humans and GAN―">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/A research of the feasibility of artificial intelligence in the process of architectural design ―through the comparative analysis of shape synthesis by humans and GAN―"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-24.772745" y="3.6454527"></viz:position>
+      </node>
+      <node id="48" label="A Study into the Relationship Between Preparatory and Final Works in Architecture – through a research of the production process of self-built architecture –">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/A Study into the Relationship Between Preparatory and Final Works in Architecture – through a research of the production process of self-built architecture –"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="18.879324" y="-3.277414"></viz:position>
+      </node>
+      <node id="49" label="Password">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Password"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-16.534304" y="-1.7017566"></viz:position>
+      </node>
+      <node id="50" label="Plotter - PX-7550">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Plotter - PX-7550"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="17.230593" y="-6.7856264"></viz:position>
+      </node>
+      <node id="51" label="Laboratory Equipments">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Laboratory Equipments"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="8.388265" y="6.8706846"></viz:position>
+      </node>
+      <node id="52" label="&amp;quot;Science Fiction&amp;quot; The Future View Transitions of Architects and Science Fiction Novelists">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Science Fiction&amp;quot; The Future View Transitions of Architects and Science Fiction Novelists"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="23.448814" y="-9.298632"></viz:position>
+      </node>
+      <node id="53" label="Printer">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Printer"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5.3196864" y="-10.486569"></viz:position>
+      </node>
+      <node id="54" label="image size test">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/image size test"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-0.21477906" y="-8.962304"></viz:position>
+      </node>
+      <node id="55" label="02 Research / Projects">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/02 Research / Projects"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="20.937666" y="10.800988"></viz:position>
+      </node>
+      <node id="56" label="&amp;quot;Research as Design Approach&amp;quot; Study on Potential of Research as Design Approach for Creativity">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Research as Design Approach&amp;quot; Study on Potential of Research as Design Approach for Creativity"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="14.747734" y="23.584026"></viz:position>
+      </node>
+      <node id="57" label="&amp;quot;Columbariums&amp;quot; The evolution of the morphology of cemeteries in the modern metropolis and the changes in their social context Through the fieldwork research on the present state of columbariums within Tokyo’ s special wards">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Columbariums&amp;quot; The evolution of the morphology of cemeteries in the modern metropolis and the changes in their social context Through the fieldwork research on the present state of columbariums within Tokyo’ s special wards"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="15.738751" y="-4.370169"></viz:position>
+      </node>
+      <node id="58" label="&amp;quot;Separator&amp;quot; Reconsideration of Separator within Architecture Space  -Separate space, man, and time-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Separator&amp;quot; Reconsideration of Separator within Architecture Space  -Separate space, man, and time-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="20.964462" y="-14.211061"></viz:position>
+      </node>
+      <node id="59" label="&amp;quot;Shared Charges, Dharavi&amp;quot; Research on future urban residence from the perspective of the concept of shared charges and the relationship between mutual complementation">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Shared Charges, Dharavi&amp;quot; Research on future urban residence from the perspective of the concept of shared charges and the relationship between mutual complementation"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="22.766754" y="24.83863"></viz:position>
+      </node>
+      <node id="60" label="&amp;quot;Hub-Housing&amp;quot; A Study on Residential Complex Containing Regional Characteristics">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Hub-Housing&amp;quot; A Study on Residential Complex Containing Regional Characteristics"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-7.5327473" y="-11.766841"></viz:position>
+      </node>
+      <node id="61" label="&amp;quot;Gigantic Architectural Device&amp;quot; Collection of Gigantic Architectural Device and Study on Spatial Property of Architectural Device">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Gigantic Architectural Device&amp;quot; Collection of Gigantic Architectural Device and Study on Spatial Property of Architectural Device"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-0.13155185" y="-18.998665"></viz:position>
+      </node>
+      <node id="62" label="&amp;quot;India in Kasai&amp;quot; Adaptation of Immigrants to the Local Community: Relationship Between Expression of Cultural Identity and Alteration of Space by Indian">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;India in Kasai&amp;quot; Adaptation of Immigrants to the Local Community: Relationship Between Expression of Cultural Identity and Alteration of Space by Indian"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="22.629742" y="-6.0913143"></viz:position>
+      </node>
+      <node id="63" label="&amp;quot;Fractal Dimension&amp;quot; A study on the evaluation of the surface layer of the cityscape across a gradual scale from a near view to a panoramic view -Through fractal dimension analysis of landscape images-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Fractal Dimension&amp;quot; A study on the evaluation of the surface layer of the cityscape across a gradual scale from a near view to a panoramic view -Through fractal dimension analysis of landscape images-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="17.946306" y="-23.622944"></viz:position>
+      </node>
+      <node id="64" label="&amp;quot;Urban Adventure Playgrounds&amp;quot; The Management and Usage of Urban Adventure Playgrounds and its Effects on Surrounding Conditions">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Urban Adventure Playgrounds&amp;quot; The Management and Usage of Urban Adventure Playgrounds and its Effects on Surrounding Conditions"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="19.980669" y="-4.9306984"></viz:position>
+      </node>
+      <node id="65" label="The Relationship Between Spatial Components and Usage in Apartment Housing Courtyards -Insights From Surveying Dutch Traditional Hofjes-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/The Relationship Between Spatial Components and Usage in Apartment Housing Courtyards -Insights From Surveying Dutch Traditional Hofjes-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-23.05432" y="-6.9035964"></viz:position>
+      </node>
+      <node id="66" label="Plotter - Canon imagePROGRAF TX-2000">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Plotter - Canon imagePROGRAF TX-2000"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="14.162035" y="-23.88409"></viz:position>
+      </node>
+      <node id="67" label="(Note) Laboratory Manuals">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Note) Laboratory Manuals"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4.6438355" y="-9.677878"></viz:position>
+      </node>
+      <node id="68" label="Laser Cutter">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Laser Cutter"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1.5869488" y="17.669577"></viz:position>
+      </node>
+      <node id="69" label="03 Category">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/03 Category"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="20.70088" y="-15.657401"></viz:position>
+      </node>
+      <node id="70" label="&amp;quot;Reproductivity&amp;quot; Reproductivity of Urban space -Through the fieldwork of warning signs and surveillance within the main station areas in Tokyo-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Reproductivity&amp;quot; Reproductivity of Urban space -Through the fieldwork of warning signs and surveillance within the main station areas in Tokyo-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-11.865407" y="5.237151"></viz:position>
+      </node>
+      <node id="71" label="&amp;quot;Local Usage of Road Planned Sites&amp;quot; Analysis of Efective Usage Through Field Survey">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Local Usage of Road Planned Sites&amp;quot; Analysis of Efective Usage Through Field Survey"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-10.112324" y="-14.660005"></viz:position>
+      </node>
+      <node id="72" label="&amp;quot;Mechanism of Local Community, Indonesia&amp;quot; Mechanism of Local Community Inheritance Under Transformation of Urban Dwelling Styles - the Case of Rusun Sombo as an Illustration of Kampung Redevelopment Projects –">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Mechanism of Local Community, Indonesia&amp;quot; Mechanism of Local Community Inheritance Under Transformation of Urban Dwelling Styles - the Case of Rusun Sombo as an Illustration of Kampung Redevelopment Projects –"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="17.325262" y="15.688732"></viz:position>
+      </node>
+      <node id="73" label="&amp;quot;Small-scale Production&amp;quot; Accumulation of small-scale production sites">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Small-scale Production&amp;quot; Accumulation of small-scale production sites"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-6.0765767" y="-21.079546"></viz:position>
+      </node>
+      <node id="74" label="&amp;quot;Air BnB&amp;quot; Effects and assignments of local community based accommodation led from field survey -comparative analysis of domestic and foreign-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Air BnB&amp;quot; Effects and assignments of local community based accommodation led from field survey -comparative analysis of domestic and foreign-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-24.02104" y="16.14325"></viz:position>
+      </node>
+      <node id="75" label="The condition of urban multi-hub residents and the urban structure supporting them">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/The condition of urban multi-hub residents and the urban structure supporting them"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="20.935661" y="21.402075"></viz:position>
+      </node>
+      <node id="76" label="field-survey-tokyo">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/field-survey-tokyo"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="11.895175" y="22.797878"></viz:position>
+      </node>
+      <node id="77" label="field-survey-asia">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/field-survey-asia"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5.1980386" y="-24.672998"></viz:position>
+      </node>
+      <node id="78" label="&amp;quot;Memories though Elements&amp;quot; Interconnection of Architecture and Personal Memories though Elements of Space">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Memories though Elements&amp;quot; Interconnection of Architecture and Personal Memories though Elements of Space"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-20.222906" y="-18.261087"></viz:position>
+      </node>
+      <node id="79" label="&amp;quot;Yves Brunier’s Landscape&amp;quot; Yves Brunier’s Architectual Interpretation on Landscape and its Efficacy">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Yves Brunier’s Landscape&amp;quot; Yves Brunier’s Architectual Interpretation on Landscape and its Efficacy"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2.4937634" y="-4.3027925"></viz:position>
+      </node>
+      <node id="80" label="&amp;quot;VR Deep Space&amp;quot; Lighting Design of Deep Space Habitats: Evaluation of Lighting Patterns in ISS Japanese Experiment Module VR Model">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;VR Deep Space&amp;quot; Lighting Design of Deep Space Habitats: Evaluation of Lighting Patterns in ISS Japanese Experiment Module VR Model"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="18.978888" y="-0.16375843"></viz:position>
+      </node>
+      <node id="81" label="&amp;quot;Origami Structure&amp;quot;">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Origami Structure&amp;quot;"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="8.32007" y="-11.970743"></viz:position>
+      </node>
+      <node id="82" label="test">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/test"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-21.187605" y="21.450474"></viz:position>
+      </node>
+      <node id="83" label="&amp;quot;Home Appliances&amp;quot; Research on the transition of home appliances and their impact on living space">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Home Appliances&amp;quot; Research on the transition of home appliances and their impact on living space"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-8.370193" y="-3.5184822"></viz:position>
+      </node>
+      <node id="84" label="&amp;quot;Cedric Price Workshop&amp;quot; The Influence of the Concept of Dramatic Workshop on the Theory and Works of Cedric Price">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Cedric Price Workshop&amp;quot; The Influence of the Concept of Dramatic Workshop on the Theory and Works of Cedric Price"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-13.065231" y="15.871236"></viz:position>
+      </node>
+      <node id="85" label="&amp;quot;Sound Space&amp;quot; Effects of Acoustic Cues on Room Size Perception When Visual Cues Are Present">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Sound Space&amp;quot; Effects of Acoustic Cues on Room Size Perception When Visual Cues Are Present"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-22.602629" y="-5.972005"></viz:position>
+      </node>
+      <node id="86" label="&amp;quot;Clothing and Architecture&amp;quot; Research on a new place where the characteristics of clothing are diverted-Through research and practice of the relationship between clothing and architecture-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Clothing and Architecture&amp;quot; Research on a new place where the characteristics of clothing are diverted-Through research and practice of the relationship between clothing and architecture-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="22.012445" y="11.157118"></viz:position>
+      </node>
+      <node id="87" label="(Project) House +-0">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) House +-0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="14.378144" y="-13.063804"></viz:position>
+      </node>
+      <node id="88" label="(Project) Bookshelf">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) Bookshelf"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="6.59312" y="-17.637821"></viz:position>
+      </node>
+      <node id="89" label="kentaro">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/kentaro"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3.1466718" y="12.652099"></viz:position>
+      </node>
+      <node id="90" label="(Presentation) Thinking Architecture in Post Pandemic">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Presentation) Thinking Architecture in Post Pandemic"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-20.083693" y="-23.989092"></viz:position>
+      </node>
+      <node id="91" label="(Note) Reference 検索用おすすめサイト">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Note) Reference 検索用おすすめサイト"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-18.770346" y="3.6035113"></viz:position>
+      </node>
+      <node id="92" label="&amp;quot;Void Timeline&amp;quot;">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/&amp;quot;Void Timeline&amp;quot;"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-6.745713" y="-21.877045"></viz:position>
+      </node>
+      <node id="93" label="01 INDEX">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/01 INDEX"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="18.392195" y="9.4038315"></viz:position>
+      </node>
+      <node id="94" label="testpage">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/testpage"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-7.70084" y="10.090919"></viz:position>
+      </node>
+      <node id="95" label="202103 Research Listup">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/202103 Research Listup"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-9.671685" y="16.471395"></viz:position>
+      </node>
+      <node id="96" label="review">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/review"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="12.098022" y="15.27894"></viz:position>
+      </node>
+      <node id="97" label="(Review) 我々は人間なのか？ Are We Human?">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Review) 我々は人間なのか？ Are We Human?"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="23.274378" y="-22.824688"></viz:position>
+      </node>
+      <node id="98" label="(Slide) Are We Human?">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Slide) Are We Human?"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="10.087085" y="-20.663223"></viz:position>
+      </node>
+      <node id="99" label="(Project) European Thinkbelt">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) European Thinkbelt"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-9.605888" y="10.276899"></viz:position>
+      </node>
+      <node id="100" label="(Project) Wagner KAAT">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) Wagner KAAT"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1.8869213" y="8.913506"></viz:position>
+      </node>
+      <node id="101" label="(Project) Kaji Bldg 2017">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) Kaji Bldg 2017"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-6.823522" y="10.656519"></viz:position>
+      </node>
+      <node id="102" label="(Project) NTT 2017">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) NTT 2017"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-7.3051543" y="-23.293045"></viz:position>
+      </node>
+      <node id="103" label="(Project) GHOST GUIDE TO TOKYO 2020">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) GHOST GUIDE TO TOKYO 2020"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-22.457224" y="9.098825"></viz:position>
+      </node>
+      <node id="104" label="(Project) Rhizomatiks 2017">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) Rhizomatiks 2017"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="14.346732" y="-24.40059"></viz:position>
+      </node>
+      <node id="105" label="(Project) Seoul Biennale 2017">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) Seoul Biennale 2017"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="14.87688" y="2.2551408"></viz:position>
+      </node>
+      <node id="106" label="(Project) TUMO Competition">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) TUMO Competition"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-15.580556" y="11.00709"></viz:position>
+      </node>
+      <node id="107" label="(Project) eduhub competition seoul 2018">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) eduhub competition seoul 2018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="22.772629" y="-21.190132"></viz:position>
+      </node>
+      <node id="108" label="(Project) Kumano 2018">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) Kumano 2018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-0.8936424" y="-1.4896244"></viz:position>
+      </node>
+      <node id="109" label="(Project) CLAIMING COMMON SPACES -ART AND URBAN PRACTICE-">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) CLAIMING COMMON SPACES -ART AND URBAN PRACTICE-"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="8.934943" y="0.3485751"></viz:position>
+      </node>
+      <node id="110" label="(Project) Sumida Research">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) Sumida Research"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="6.022272" y="23.33366"></viz:position>
+      </node>
+      <node id="111" label="(Project) P&amp;H 2018">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) P&amp;H 2018"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-5.6236434" y="4.4585547"></viz:position>
+      </node>
+      <node id="112" label="(Project) O-Housing 2020">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) O-Housing 2020"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-23.41963" y="9.308211"></viz:position>
+      </node>
+      <node id="113" label="(Project) Morocco Playground Research">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) Morocco Playground Research"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="8.818163" y="-16.811602"></viz:position>
+      </node>
+      <node id="114" label="(Project) Japan Ofiice Research 2020">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) Japan Ofiice Research 2020"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="10.132678" y="-12.42165"></viz:position>
+      </node>
+      <node id="115" label="(Project) Book Landscape Book">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) Book Landscape Book"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2.0355322" y="2.1513124"></viz:position>
+      </node>
+      <node id="116" label="(Project) BEZOAR by CHARLOTTE DUMAS at the GINZA MAISON HERMES">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) BEZOAR by CHARLOTTE DUMAS at the GINZA MAISON HERMES"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3.6768312" y="-0.499279"></viz:position>
+      </node>
+      <node id="117" label="(Project) 個室都市東京 2019">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) 個室都市東京 2019"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-20.221516" y="14.277604"></viz:position>
+      </node>
+      <node id="118" label="(Project) Wagner Frankfurt 2019">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) Wagner Frankfurt 2019"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="11.60576" y="13.938367"></viz:position>
+      </node>
+      <node id="119" label="(Project) Tripoli Competition 2019">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) Tripoli Competition 2019"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1.8556734" y="-12.495028"></viz:position>
+      </node>
+      <node id="120" label="(Project) KAFUU 2019">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) KAFUU 2019"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-0.2867441" y="-13.53422"></viz:position>
+      </node>
+      <node id="121" label="(Project) EUROPAN15 Competiton 2019">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) EUROPAN15 Competiton 2019"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="22.985577" y="7.540948"></viz:position>
+      </node>
+      <node id="122" label="(Project) ENSA-V Workshop 2019">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) ENSA-V Workshop 2019"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="16.46719" y="-13.121924"></viz:position>
+      </node>
+      <node id="123" label="(Slide) ARCHITECTURAL VISUALIZATION AND SEVERALNESS">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Slide) ARCHITECTURAL VISUALIZATION AND SEVERALNESS"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="14.099678" y="-14.759983"></viz:position>
+      </node>
+      <node id="124" label="Untitled 2021/4/17 14:41:06">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Untitled 2021/4/17 14:41:06"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="12.423504" y="21.836843"></viz:position>
+      </node>
+      <node id="125" label="#testpage というタグがついたページ">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/#testpage というタグがついたページ"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="22.924881" y="-6.8913217"></viz:position>
+      </node>
+      <node id="126" label="(Review) Template">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Review) Template"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-14.422112" y="-18.51277"></viz:position>
+      </node>
+      <node id="127" label="(Review) Notation Cartography">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Review) Notation Cartography"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="17.877432" y="-23.015118"></viz:position>
+      </node>
+      <node id="128" label="Isadora Duncan">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Isadora Duncan"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="16.438438" y="-7.55477"></viz:position>
+      </node>
+      <node id="129" label="(Review) 動いている庭">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Review) 動いている庭"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="8.568223" y="-12.966002"></viz:position>
+      </node>
+      <node id="130" label="Untitled 2021/4/19 10:35:30">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Untitled 2021/4/19 10:35:30"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-18.34864" y="14.681125"></viz:position>
+      </node>
+      <node id="131" label="Untitled 2021/4/19 10:50:48">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Untitled 2021/4/19 10:50:48"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-0.45059496" y="-3.1383467"></viz:position>
+      </node>
+      <node id="132" label="Untitled 2021/4/19 11:08:03">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Untitled 2021/4/19 11:08:03"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-0.8768539" y="-23.485529"></viz:position>
+      </node>
+      <node id="133" label="Untitled 2021/4/19 11:27:59">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Untitled 2021/4/19 11:27:59"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="11.324848" y="-19.235458"></viz:position>
+      </node>
+      <node id="134" label="(Slide) Casestudy: Reproductivity of Urban space">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Slide) Casestudy: Reproductivity of Urban space"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="10.7565" y="0.18797302"></viz:position>
+      </node>
+      <node id="135" label="Untitled 2021/4/19 12:31:19">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Untitled 2021/4/19 12:31:19"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-5.8979526" y="-3.0765946"></viz:position>
+      </node>
+      <node id="136" label="research">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/research"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1.1535375" y="-19.697948"></viz:position>
+      </node>
+      <node id="137" label="Location:">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Location:"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="15.28064" y="-21.311798"></viz:position>
+      </node>
+      <node id="138" label="(Project) Template">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Project) Template"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-18.061296" y="-11.231158"></viz:position>
+      </node>
+      <node id="139" label="document-search">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/document-search"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="21.252806" y="17.013588"></viz:position>
+      </node>
+      <node id="140" label="(Review) &amp;quot;マジョリティ園&amp;quot; / Majority Park">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Review) &amp;quot;マジョリティ園&amp;quot; / Majority Park"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-8.28486" y="-7.1161466"></viz:position>
+      </node>
+      <node id="141" label="(Note) Websites - Material">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/(Note) Websites - Material"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="7.733377" y="24.573612"></viz:position>
+      </node>
+      <node id="142" label="別ページ">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/別ページ"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="21.092041" y="-12.384573"></viz:position>
+      </node>
+      <node id="143" label="リンク">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/リンク"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-19.457434" y="6.1176815"></viz:position>
+      </node>
+      <node id="144" label="ハッシュタグ">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/ハッシュタグ"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="20.7069" y="9.2766075"></viz:position>
+      </node>
+      <node id="145" label="Scrapbox">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Scrapbox"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="0.5318134" y="20.225578"></viz:position>
+      </node>
+      <node id="146" label="つながり">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/つながり"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-12.284627" y="15.371011"></viz:position>
+      </node>
+      <node id="147" label="読んだ本">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/読んだ本"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-17.82668" y="4.7774982"></viz:position>
+      </node>
+      <node id="148" label="人物">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/人物"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2.832789" y="-15.406325"></viz:position>
+      </node>
+      <node id="149" label="タスク">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/タスク"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5.2264037" y="2.1758115"></viz:position>
+      </node>
+      <node id="150" label="自由">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/自由"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5.6851826" y="11.719896"></viz:position>
+      </node>
+      <node id="151" label="ページ">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/ページ"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2.8489118" y="10.638408"></viz:position>
+      </node>
+      <node id="152" label="Literalism">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Literalism"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="0.964062" y="-5.5705433"></viz:position>
+      </node>
+      <node id="153" label="Minimalism">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Minimalism"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="7.5394945" y="4.729234"></viz:position>
+      </node>
+      <node id="155" label="timeline">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/timeline"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-18.322065" y="-17.009373"></viz:position>
+      </node>
+      <node id="156" label="芸術論">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/芸術論"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="18.37662" y="11.699808"></viz:position>
+      </node>
+      <node id="157" label="ロバートスミッソン">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/ロバートスミッソン"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-11.345062" y="-10.83223"></viz:position>
+      </node>
+      <node id="158" label="生成変化">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/生成変化"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-0.8372203" y="0.18619727"></viz:position>
+      </node>
+      <node id="159" label="制作論">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/制作論"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2.6252105" y="-22.281666"></viz:position>
+      </node>
+      <node id="160" label="design-process">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/design-process"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-22.712563" y="-15.6608305"></viz:position>
+      </node>
+      <node id="162" label="facade">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/facade"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-15.80546" y="-7.590528"></viz:position>
+      </node>
+      <node id="163" label="media">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/media"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-12.610165" y="19.560913"></viz:position>
+      </node>
+      <node id="164" label="Media Facades in Ginza">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Media Facades in Ginza"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="24.081486" y="-1.388525"></viz:position>
+      </node>
+      <node id="165" label="project">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/project"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-7.7671704" y="15.679931"></viz:position>
+      </node>
+      <node id="166" label="gordon-matta-clark">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/gordon-matta-clark"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="11.077913" y="6.2146635"></viz:position>
+      </node>
+      <node id="167" label="note">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/note"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="15.591563" y="19.616411"></viz:position>
+      </node>
+      <node id="168" label="informal-city">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/informal-city"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="20.896175" y="19.86833"></viz:position>
+      </node>
+      <node id="169" label="generative-design">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/generative-design"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-11.584207" y="22.373596"></viz:position>
+      </node>
+      <node id="170" label="notation">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/notation"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2.2789094" y="-1.6452134"></viz:position>
+      </node>
+      <node id="171" label="wasteland">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/wasteland"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-9.957675" y="24.536345"></viz:position>
+      </node>
+      <node id="172" label="glich">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/glich"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-9.941927" y="-8.711479"></viz:position>
+      </node>
+      <node id="173" label="ページタイトル.icon ">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/ページタイトル.icon "></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="10.81404" y="0.36632463"></viz:position>
+      </node>
+      <node id="174" label="thesis">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/thesis"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-21.792229" y="9.26991"></viz:position>
+      </node>
+      <node id="176" label="frederick-kiesler">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/frederick-kiesler"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="21.104616" y="-16.946062"></viz:position>
+      </node>
+      <node id="177" label="body-sense">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/body-sense"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-24.39032" y="23.124905"></viz:position>
+      </node>
+      <node id="178" label="addhook">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/addhook"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4.453096" y="2.720321"></viz:position>
+      </node>
+      <node id="179" label="field-survay">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/field-survay"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-9.263781" y="-21.073458"></viz:position>
+      </node>
+      <node id="181" label="grasshopper">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/grasshopper"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-0.71994835" y="-5.641586"></viz:position>
+      </node>
+      <node id="182" label="simulation">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/simulation"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4.0054293" y="8.121119"></viz:position>
+      </node>
+      <node id="183" label="密集居住区">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/密集居住区"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-5.512852" y="5.060366"></viz:position>
+      </node>
+      <node id="184" label="スケルトンインフィル">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/スケルトンインフィル"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-11.827145" y="6.271257"></viz:position>
+      </node>
+      <node id="185" label="ジェントリフィケーション">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/ジェントリフィケーション"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-10.865481" y="18.599182"></viz:position>
+      </node>
+      <node id="186" label="バンコク">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/バンコク"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-22.200441" y="-0.31987548"></viz:position>
+      </node>
+      <node id="187" label="ファサード">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/ファサード"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5.345432" y="-19.28424"></viz:position>
+      </node>
+      <node id="188" label="タイ">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/タイ"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="18.571703" y="16.47546"></viz:position>
+      </node>
+      <node id="189" label="高密度居住">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/高密度居住"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-13.39473" y="0.3081384"></viz:position>
+      </node>
+      <node id="190" label="増改築">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/増改築"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3.9539888" y="-22.390968"></viz:position>
+      </node>
+      <node id="191" label="路地空間">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/路地空間"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="20.701998" y="20.12803"></viz:position>
+      </node>
+      <node id="192" label="いちょう団地">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/いちょう団地"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1.2566755" y="23.666615"></viz:position>
+      </node>
+      <node id="193" label="外国人居住者">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/外国人居住者"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2.3022046" y="-4.4396515"></viz:position>
+      </node>
+      <node id="194" label="余白">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/余白"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-12.456813" y="-4.6144705"></viz:position>
+      </node>
+      <node id="195" label="都市">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/都市"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1.4733518" y="-8.405306"></viz:position>
+      </node>
+      <node id="196" label="多国籍住民">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/多国籍住民"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="8.944816" y="-10.658789"></viz:position>
+      </node>
+      <node id="197" label="郊外団地">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/郊外団地"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="9.080281" y="6.19346"></viz:position>
+      </node>
+      <node id="198" label="多文化共生">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/多文化共生"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5.5563626" y="15.391255"></viz:position>
+      </node>
+      <node id="199" label="管理体制">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/管理体制"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="17.974852" y="2.9193861"></viz:position>
+      </node>
+      <node id="200" label="利用実態">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/利用実態"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="15.351089" y="-10.845161"></viz:position>
+      </node>
+      <node id="201" label="図書館">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/図書館"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-16.41655" y="-13.093861"></viz:position>
+      </node>
+      <node id="202" label="東京">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/東京"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4.8494287" y="1.0573636"></viz:position>
+      </node>
+      <node id="203" label="本">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/本"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2.6255195" y="-13.961321"></viz:position>
+      </node>
+      <node id="204" label="メディア">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/メディア"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-24.342432" y="13.284612"></viz:position>
+      </node>
+      <node id="205" label="マイクロ・ライブラリー">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/マイクロ・ライブラリー"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-23.886372" y="3.5558493"></viz:position>
+      </node>
+      <node id="206" label="コモンズ">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/コモンズ"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="6.7667847" y="-2.632331"></viz:position>
+      </node>
+      <node id="207" label="都市転用">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/都市転用"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-14.932853" y="-10.8041"></viz:position>
+      </node>
+      <node id="208" label="コミュニティ">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/コミュニティ"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="19.7298" y="-11.940671"></viz:position>
+      </node>
+      <node id="209" label="公共施設利用">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/公共施設利用"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-22.013184" y="-16.523726"></viz:position>
+      </node>
+      <node id="210" label="住民参加">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/住民参加"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-7.825822" y="-6.3353724"></viz:position>
+      </node>
+      <node id="211" label="bookshelf">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/bookshelf"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-12.638029" y="23.732252"></viz:position>
+      </node>
+      <node id="212" label="library">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/library"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="0.46318552" y="19.052622"></viz:position>
+      </node>
+      <node id="213" label="単身者">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/単身者"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="10.191603" y="11.134722"></viz:position>
+      </node>
+      <node id="214" label="渋谷区">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/渋谷区"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-18.568682" y="-24.796513"></viz:position>
+      </node>
+      <node id="215" label="銭湯">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/銭湯"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="10.3595915" y="-24.934439"></viz:position>
+      </node>
+      <node id="216" label="コインランドリー">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/コインランドリー"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2.1421738" y="18.334438"></viz:position>
+      </node>
+      <node id="217" label="笹塚">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/笹塚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1.4112785" y="-15.050202"></viz:position>
+      </node>
+      <node id="218" label="シチュアシオニスト">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/シチュアシオニスト"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1.9890695" y="-17.600061"></viz:position>
+      </node>
+      <node id="219" label="作家論">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/作家論"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4.9042153" y="-0.07304114"></viz:position>
+      </node>
+      <node id="220" label="絵画分析">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/絵画分析"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-23.80492" y="-8.923838"></viz:position>
+      </node>
+      <node id="221" label="NewBabylon">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/NewBabylon"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-23.444937" y="13.589667"></viz:position>
+      </node>
+      <node id="222" label="ConstantNieuwenhuys">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/ConstantNieuwenhuys"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="13.568036" y="9.216529"></viz:position>
+      </node>
+      <node id="223" label="演劇">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/演劇"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="16.421555" y="-5.574191"></viz:position>
+      </node>
+      <node id="224" label="抽象化手法">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/抽象化手法"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-15.772643" y="19.204687"></viz:position>
+      </node>
+      <node id="225" label="舞台装置">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/舞台装置"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="23.079962" y="-7.4287705"></viz:position>
+      </node>
+      <node id="226" label="Romeo_and_Juliet">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Romeo_and_Juliet"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-5.056641" y="-15.36679"></viz:position>
+      </node>
+      <node id="227" label="装飾">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/装飾"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3.9004133" y="-19.986805"></viz:position>
+      </node>
+      <node id="228" label="建築的構成要素">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/建築的構成要素"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-9.283883" y="-7.699258"></viz:position>
+      </node>
+      <node id="229" label="ふるまい">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/ふるまい"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="6.8215647" y="14.480494"></viz:position>
+      </node>
+      <node id="230" label="マールテン・ファン・セーヴェレン">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/マールテン・ファン・セーヴェレン"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-18.730341" y="-6.3527083"></viz:position>
+      </node>
+      <node id="231" label="Maarten_Van_Severenn">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Maarten_Van_Severenn"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4.7757835" y="16.914282"></viz:position>
+      </node>
+      <node id="232" label="家具">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/家具"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="10.248714" y="-1.5631934"></viz:position>
+      </node>
+      <node id="233" label="MVS">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/MVS"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="19.13109" y="-21.3655"></viz:position>
+      </node>
+      <node id="234" label="furnitecture">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/furnitecture"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="13.078974" y="6.7481303"></viz:position>
+      </node>
+      <node id="235" label="Gordon_Matta-Clark">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Gordon_Matta-Clark"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-15.028766" y="17.099855"></viz:position>
+      </node>
+      <node id="236" label="ゴードン・マッタ=クラーク">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/ゴードン・マッタ=クラーク"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-23.311779" y="0.14989927"></viz:position>
+      </node>
+      <node id="237" label="サイト・スペシフィック">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/サイト・スペシフィック"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-8.447195" y="-21.494926"></viz:position>
+      </node>
+      <node id="238" label="3次元モデル">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/3次元モデル"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="20.584465" y="-0.68814224"></viz:position>
+      </node>
+      <node id="239" label="作品分析">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/作品分析"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-24.141582" y="-8.632631"></viz:position>
+      </node>
+      <node id="240" label="空間視線解析">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/空間視線解析"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="14.148579" y="-16.75542"></viz:position>
+      </node>
+      <node id="241" label="外装タイル">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/外装タイル"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5.807514" y="7.724721"></viz:position>
+      </node>
+      <node id="242" label="ヒューマンスケール">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/ヒューマンスケール"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-20.577269" y="4.8614707"></viz:position>
+      </node>
+      <node id="243" label="都市景観">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/都市景観"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="12.391497" y="-22.398209"></viz:position>
+      </node>
+      <node id="244" label="新宿区">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/新宿区"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2.1622732" y="-21.37855"></viz:position>
+      </node>
+      <node id="245" label="都市調査">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/都市調査"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="16.767382" y="-12.004983"></viz:position>
+      </node>
+      <node id="246" label="自然光">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/自然光"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-13.53247" y="8.637588"></viz:position>
+      </node>
+      <node id="247" label="印象評価">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/印象評価"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-0.825675" y="9.786585"></viz:position>
+      </node>
+      <node id="248" label="明暗">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/明暗"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-10.076691" y="19.826498"></viz:position>
+      </node>
+      <node id="249" label="空間認知">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/空間認知"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="21.429909" y="-15.282251"></viz:position>
+      </node>
+      <node id="250" label="視覚">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/視覚"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="16.847727" y="0.42518815"></viz:position>
+      </node>
+      <node id="251" label="心理分析">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/心理分析"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-6.2818413" y="-0.16489913"></viz:position>
+      </node>
+      <node id="252" label="行動分析">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/行動分析"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-23.01167" y="11.516557"></viz:position>
+      </node>
+      <node id="253" label="釜山">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/釜山"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="19.398855" y="-11.330846"></viz:position>
+      </node>
+      <node id="254" label="音楽ホール">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/音楽ホール"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-14.197725" y="18.081644"></viz:position>
+      </node>
+      <node id="255" label="ホワイエ">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/ホワイエ"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="8.647754" y="16.81275"></viz:position>
+      </node>
+      <node id="256" label="外国人居住区">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/外国人居住区"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-9.681331" y="-3.4637625"></viz:position>
+      </node>
+      <node id="257" label="大久保">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/大久保"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="22.879944" y="4.5375752"></viz:position>
+      </node>
+      <node id="258" label="shin-okubo">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/shin-okubo"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1.505042" y="-24.288643"></viz:position>
+      </node>
+      <node id="259" label="connectivity">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/connectivity"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2.8863785" y="10.620202"></viz:position>
+      </node>
+      <node id="260" label="音楽">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/音楽"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="0.046158224" y="21.801605"></viz:position>
+      </node>
+      <node id="261" label="クラウドファンディング">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/クラウドファンディング"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-13.300862" y="-0.3551845"></viz:position>
+      </node>
+      <node id="262" label="仮設">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/仮設"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="7.492314" y="-17.067678"></viz:position>
+      </node>
+      <node id="263" label="Ugliness">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Ugliness"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1.8317126" y="-10.292016"></viz:position>
+      </node>
+      <node id="264" label="RobertVenturi">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/RobertVenturi"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-21.154491" y="15.685941"></viz:position>
+      </node>
+      <node id="265" label="RemKoolhaas">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/RemKoolhaas"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-8.648678" y="-21.328472"></viz:position>
+      </node>
+      <node id="266" label="postmodernism">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/postmodernism"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-24.174252" y="24.179903"></viz:position>
+      </node>
+      <node id="267" label="cedric-price">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/cedric-price"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-18.635658" y="24.892742"></viz:position>
+      </node>
+      <node id="268" label="Archigram">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Archigram"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="22.296064" y="2.102891"></viz:position>
+      </node>
+      <node id="269" label="CedricPrice">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/CedricPrice"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="24.587185" y="12.706945"></viz:position>
+      </node>
+      <node id="270" label="広場">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/広場"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="24.623636" y="-20.506813"></viz:position>
+      </node>
+      <node id="271" label="AI">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/AI"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-7.667885" y="13.845514"></viz:position>
+      </node>
+      <node id="272" label="GAN">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/GAN"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="10.11576" y="-11.017688"></viz:position>
+      </node>
+      <node id="273" label="セルフビルド">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/セルフビルド"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="19.546125" y="13.443271"></viz:position>
+      </node>
+      <node id="274" label="lab-equipment">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/lab-equipment"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3.9067578" y="-19.27085"></viz:position>
+      </node>
+      <node id="275" label="時間の目安">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/時間の目安"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="13.594766" y="3.3223073"></viz:position>
+      </node>
+      <node id="276" label="PlotterPX-7550">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/PlotterPX-7550"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="0.65006393" y="-18.66587"></viz:position>
+      </node>
+      <node id="277" label="lab_manual">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/lab_manual"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="19.942997" y="5.835016"></viz:position>
+      </node>
+      <node id="279" label="SF">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/SF"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-6.302921" y="9.650039"></viz:position>
+      </node>
+      <node id="281" label="2017-project">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/2017-project"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="17.378624" y="-21.292706"></viz:position>
+      </node>
+      <node id="282" label="2018-project">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/2018-project"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="13.498759" y="-18.404474"></viz:position>
+      </node>
+      <node id="283" label="2019-project">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/2019-project"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5.3164816" y="15.043638"></viz:position>
+      </node>
+      <node id="284" label="2020-project">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/2020-project"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-10.41412" y="6.8291907"></viz:position>
+      </node>
+      <node id="285" label="separater">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/separater"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-0.3234332" y="-7.061047"></viz:position>
+      </node>
+      <node id="286" label="hub-house">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/hub-house"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="17.66334" y="2.4567606"></viz:position>
+      </node>
+      <node id="287" label="device">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/device"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="21.846943" y="-4.0122476"></viz:position>
+      </node>
+      <node id="288" label="巨大建築">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/巨大建築"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-24.068869" y="22.820677"></viz:position>
+      </node>
+      <node id="289" label="immigrant">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/immigrant"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2.6777153" y="19.38944"></viz:position>
+      </node>
+      <node id="290" label="multinational">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/multinational"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5.0978575" y="-20.139053"></viz:position>
+      </node>
+      <node id="291" label="playground">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/playground"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-23.248465" y="-3.68074"></viz:position>
+      </node>
+      <node id="292" label="housing">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/housing"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3.7100673" y="5.5380464"></viz:position>
+      </node>
+      <node id="293" label="housing-complex">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/housing-complex"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2.333196" y="-24.23246"></viz:position>
+      </node>
+      <node id="294" label="courtyard">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/courtyard"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-7.953977" y="-13.626913"></viz:position>
+      </node>
+      <node id="295" label="case-study">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/case-study"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="16.764393" y="6.14568"></viz:position>
+      </node>
+      <node id="296" label="field-survey">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/field-survey"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5.635037" y="-19.712524"></viz:position>
+      </node>
+      <node id="297" label="artist-research">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/artist-research"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="0.27987155" y="-21.384533"></viz:position>
+      </node>
+      <node id="298" label="temporary">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/temporary"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3.0473664" y="7.6136737"></viz:position>
+      </node>
+      <node id="299" label="reproductivity">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/reproductivity"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="23.709736" y="10.319018"></viz:position>
+      </node>
+      <node id="300" label="tokyo">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/tokyo"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="20.182848" y="-8.599333"></viz:position>
+      </node>
+      <node id="301" label="indonesia">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/indonesia"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="21.939753" y="0.46987838"></viz:position>
+      </node>
+      <node id="302" label="conservation">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/conservation"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4.9952893" y="6.952203"></viz:position>
+      </node>
+      <node id="303" label="landscape">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/landscape"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="22.675657" y="21.611475"></viz:position>
+      </node>
+      <node id="304" label="VR">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/VR"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-19.347784" y="-13.087219"></viz:position>
+      </node>
+      <node id="305" label="living-space">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/living-space"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="9.99298" y="14.257354"></viz:position>
+      </node>
+      <node id="306" label="sound">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/sound"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="21.1298" y="16.155865"></viz:position>
+      </node>
+      <node id="307" label="member">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/member"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="10.796448" y="-14.401697"></viz:position>
+      </node>
+      <node id="308" label="group-presentation">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/group-presentation"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="15.086823" y="-9.769275"></viz:position>
+      </node>
+      <node id="309" label="slide">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/slide"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="15.018159" y="21.994707"></viz:position>
+      </node>
+      <node id="310" label="Editer's Note">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/Editer's Note"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="17.347761" y="2.1887572"></viz:position>
+      </node>
+      <node id="311" label="wagner-project">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/wagner-project"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-22.848753" y="10.568133"></viz:position>
+      </node>
+      <node id="312" label="port-b">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/port-b"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-0.12600476" y="15.237119"></viz:position>
+      </node>
+      <node id="313" label="HAU website">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/HAU website"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2.4541419" y="-22.635592"></viz:position>
+      </node>
+      <node id="314" label="visualization">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/visualization"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="15.713443" y="22.85692"></viz:position>
+      </node>
+      <node id="315" label="pubric-space">
+        <attvalues>
+          <attvalue for="0" value="https://scrapbox.io/k2lab/pubric-space"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3.2131534" y="-11.718918"></viz:position>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="142"></edge>
+      <edge id="1" source="0" target="143"></edge>
+      <edge id="2" source="0" target="144"></edge>
+      <edge id="3" source="0" target="145"></edge>
+      <edge id="4" source="0" target="146"></edge>
+      <edge id="5" source="0" target="147"></edge>
+      <edge id="6" source="0" target="148"></edge>
+      <edge id="7" source="0" target="149"></edge>
+      <edge id="8" source="0" target="150"></edge>
+      <edge id="9" source="1" target="3"></edge>
+      <edge id="10" source="2" target="0"></edge>
+      <edge id="11" source="2" target="93"></edge>
+      <edge id="12" source="2" target="151"></edge>
+      <edge id="13" source="2" target="94"></edge>
+      <edge id="14" source="2" target="12"></edge>
+      <edge id="15" source="3" target="152"></edge>
+      <edge id="16" source="3" target="153"></edge>
+      <edge id="17" source="3" target="154"></edge>
+      <edge id="18" source="3" target="155"></edge>
+      <edge id="19" source="3" target="139"></edge>
+      <edge id="20" source="4" target="96"></edge>
+      <edge id="21" source="4" target="156"></edge>
+      <edge id="22" source="4" target="157"></edge>
+      <edge id="23" source="4" target="158"></edge>
+      <edge id="24" source="4" target="159"></edge>
+      <edge id="25" source="4" target="160"></edge>
+      <edge id="26" source="5" target="136"></edge>
+      <edge id="27" source="5" target="155"></edge>
+      <edge id="28" source="5" target="161"></edge>
+      <edge id="29" source="5" target="162"></edge>
+      <edge id="30" source="5" target="163"></edge>
+      <edge id="31" source="6" target="136"></edge>
+      <edge id="32" source="7" target="164"></edge>
+      <edge id="33" source="8" target="165"></edge>
+      <edge id="34" source="9" target="165"></edge>
+      <edge id="35" source="10" target="165"></edge>
+      <edge id="36" source="10" target="166"></edge>
+      <edge id="37" source="11" target="167"></edge>
+      <edge id="38" source="11" target="168"></edge>
+      <edge id="39" source="11" target="169"></edge>
+      <edge id="40" source="11" target="170"></edge>
+      <edge id="41" source="11" target="171"></edge>
+      <edge id="42" source="11" target="128"></edge>
+      <edge id="43" source="11" target="172"></edge>
+      <edge id="44" source="11" target="123"></edge>
+      <edge id="45" source="12" target="0"></edge>
+      <edge id="46" source="12" target="136"></edge>
+      <edge id="47" source="12" target="165"></edge>
+      <edge id="48" source="12" target="96"></edge>
+      <edge id="49" source="12" target="167"></edge>
+      <edge id="50" source="12" target="173"></edge>
+      <edge id="51" source="12" target="95"></edge>
+      <edge id="52" source="13" target="136"></edge>
+      <edge id="53" source="13" target="174"></edge>
+      <edge id="54" source="13" target="175"></edge>
+      <edge id="55" source="13" target="139"></edge>
+      <edge id="56" source="13" target="176"></edge>
+      <edge id="57" source="13" target="163"></edge>
+      <edge id="58" source="13" target="177"></edge>
+      <edge id="59" source="13" target="155"></edge>
+      <edge id="60" source="14" target="136"></edge>
+      <edge id="61" source="14" target="174"></edge>
+      <edge id="62" source="14" target="175"></edge>
+      <edge id="63" source="14" target="178"></edge>
+      <edge id="64" source="14" target="179"></edge>
+      <edge id="65" source="14" target="77"></edge>
+      <edge id="66" source="14" target="168"></edge>
+      <edge id="67" source="15" target="136"></edge>
+      <edge id="68" source="15" target="174"></edge>
+      <edge id="69" source="15" target="175"></edge>
+      <edge id="70" source="15" target="77"></edge>
+      <edge id="71" source="15" target="168"></edge>
+      <edge id="72" source="17" target="14"></edge>
+      <edge id="73" source="17" target="15"></edge>
+      <edge id="74" source="18" target="136"></edge>
+      <edge id="75" source="18" target="180"></edge>
+      <edge id="76" source="19" target="136"></edge>
+      <edge id="77" source="19" target="180"></edge>
+      <edge id="78" source="19" target="76"></edge>
+      <edge id="79" source="20" target="136"></edge>
+      <edge id="80" source="20" target="180"></edge>
+      <edge id="81" source="21" target="136"></edge>
+      <edge id="82" source="21" target="180"></edge>
+      <edge id="83" source="22" target="136"></edge>
+      <edge id="84" source="22" target="180"></edge>
+      <edge id="85" source="23" target="136"></edge>
+      <edge id="86" source="23" target="180"></edge>
+      <edge id="87" source="24" target="136"></edge>
+      <edge id="88" source="24" target="180"></edge>
+      <edge id="89" source="25" target="136"></edge>
+      <edge id="90" source="25" target="180"></edge>
+      <edge id="91" source="25" target="172"></edge>
+      <edge id="92" source="25" target="181"></edge>
+      <edge id="93" source="25" target="182"></edge>
+      <edge id="94" source="26" target="136"></edge>
+      <edge id="95" source="26" target="154"></edge>
+      <edge id="96" source="26" target="183"></edge>
+      <edge id="97" source="26" target="184"></edge>
+      <edge id="98" source="26" target="185"></edge>
+      <edge id="99" source="26" target="186"></edge>
+      <edge id="100" source="26" target="187"></edge>
+      <edge id="101" source="26" target="188"></edge>
+      <edge id="102" source="26" target="189"></edge>
+      <edge id="103" source="26" target="190"></edge>
+      <edge id="104" source="26" target="191"></edge>
+      <edge id="105" source="27" target="136"></edge>
+      <edge id="106" source="27" target="154"></edge>
+      <edge id="107" source="27" target="192"></edge>
+      <edge id="108" source="27" target="193"></edge>
+      <edge id="109" source="27" target="194"></edge>
+      <edge id="110" source="27" target="195"></edge>
+      <edge id="111" source="27" target="196"></edge>
+      <edge id="112" source="27" target="197"></edge>
+      <edge id="113" source="27" target="198"></edge>
+      <edge id="114" source="27" target="199"></edge>
+      <edge id="115" source="27" target="200"></edge>
+      <edge id="116" source="27" target="76"></edge>
+      <edge id="117" source="28" target="136"></edge>
+      <edge id="118" source="28" target="154"></edge>
+      <edge id="119" source="28" target="201"></edge>
+      <edge id="120" source="28" target="202"></edge>
+      <edge id="121" source="28" target="203"></edge>
+      <edge id="122" source="28" target="204"></edge>
+      <edge id="123" source="28" target="205"></edge>
+      <edge id="124" source="28" target="206"></edge>
+      <edge id="125" source="28" target="207"></edge>
+      <edge id="126" source="28" target="208"></edge>
+      <edge id="127" source="28" target="209"></edge>
+      <edge id="128" source="28" target="210"></edge>
+      <edge id="129" source="28" target="211"></edge>
+      <edge id="130" source="28" target="212"></edge>
+      <edge id="131" source="28" target="76"></edge>
+      <edge id="132" source="29" target="136"></edge>
+      <edge id="133" source="29" target="154"></edge>
+      <edge id="134" source="29" target="213"></edge>
+      <edge id="135" source="29" target="195"></edge>
+      <edge id="136" source="29" target="214"></edge>
+      <edge id="137" source="29" target="215"></edge>
+      <edge id="138" source="29" target="216"></edge>
+      <edge id="139" source="29" target="217"></edge>
+      <edge id="140" source="29" target="76"></edge>
+      <edge id="141" source="30" target="136"></edge>
+      <edge id="142" source="30" target="154"></edge>
+      <edge id="143" source="30" target="218"></edge>
+      <edge id="144" source="30" target="219"></edge>
+      <edge id="145" source="30" target="220"></edge>
+      <edge id="146" source="30" target="221"></edge>
+      <edge id="147" source="30" target="222"></edge>
+      <edge id="148" source="30" target="155"></edge>
+      <edge id="149" source="31" target="136"></edge>
+      <edge id="150" source="31" target="154"></edge>
+      <edge id="151" source="31" target="223"></edge>
+      <edge id="152" source="31" target="224"></edge>
+      <edge id="153" source="31" target="225"></edge>
+      <edge id="154" source="31" target="226"></edge>
+      <edge id="155" source="31" target="227"></edge>
+      <edge id="156" source="31" target="228"></edge>
+      <edge id="157" source="31" target="229"></edge>
+      <edge id="158" source="32" target="136"></edge>
+      <edge id="159" source="32" target="154"></edge>
+      <edge id="160" source="32" target="230"></edge>
+      <edge id="161" source="32" target="231"></edge>
+      <edge id="162" source="32" target="232"></edge>
+      <edge id="163" source="32" target="233"></edge>
+      <edge id="164" source="32" target="234"></edge>
+      <edge id="165" source="33" target="136"></edge>
+      <edge id="166" source="33" target="154"></edge>
+      <edge id="167" source="33" target="235"></edge>
+      <edge id="168" source="33" target="236"></edge>
+      <edge id="169" source="33" target="237"></edge>
+      <edge id="170" source="33" target="238"></edge>
+      <edge id="171" source="33" target="219"></edge>
+      <edge id="172" source="33" target="239"></edge>
+      <edge id="173" source="33" target="240"></edge>
+      <edge id="174" source="34" target="136"></edge>
+      <edge id="175" source="34" target="154"></edge>
+      <edge id="176" source="34" target="241"></edge>
+      <edge id="177" source="34" target="195"></edge>
+      <edge id="178" source="34" target="242"></edge>
+      <edge id="179" source="34" target="187"></edge>
+      <edge id="180" source="34" target="243"></edge>
+      <edge id="181" source="34" target="244"></edge>
+      <edge id="182" source="34" target="245"></edge>
+      <edge id="183" source="35" target="136"></edge>
+      <edge id="184" source="35" target="154"></edge>
+      <edge id="185" source="35" target="246"></edge>
+      <edge id="186" source="35" target="247"></edge>
+      <edge id="187" source="35" target="248"></edge>
+      <edge id="188" source="35" target="249"></edge>
+      <edge id="189" source="35" target="250"></edge>
+      <edge id="190" source="35" target="251"></edge>
+      <edge id="191" source="35" target="252"></edge>
+      <edge id="192" source="35" target="182"></edge>
+      <edge id="193" source="36" target="136"></edge>
+      <edge id="194" source="36" target="161"></edge>
+      <edge id="195" source="36" target="253"></edge>
+      <edge id="196" source="37" target="136"></edge>
+      <edge id="197" source="37" target="161"></edge>
+      <edge id="198" source="37" target="254"></edge>
+      <edge id="199" source="37" target="255"></edge>
+      <edge id="200" source="37" target="202"></edge>
+      <edge id="201" source="38" target="136"></edge>
+      <edge id="202" source="38" target="161"></edge>
+      <edge id="203" source="38" target="256"></edge>
+      <edge id="204" source="38" target="257"></edge>
+      <edge id="205" source="38" target="76"></edge>
+      <edge id="206" source="38" target="258"></edge>
+      <edge id="207" source="38" target="259"></edge>
+      <edge id="208" source="39" target="136"></edge>
+      <edge id="209" source="39" target="161"></edge>
+      <edge id="210" source="39" target="260"></edge>
+      <edge id="211" source="39" target="202"></edge>
+      <edge id="212" source="40" target="136"></edge>
+      <edge id="213" source="40" target="161"></edge>
+      <edge id="214" source="40" target="261"></edge>
+      <edge id="215" source="41" target="136"></edge>
+      <edge id="216" source="41" target="161"></edge>
+      <edge id="217" source="41" target="262"></edge>
+      <edge id="218" source="41" target="202"></edge>
+      <edge id="219" source="42" target="136"></edge>
+      <edge id="220" source="42" target="161"></edge>
+      <edge id="221" source="42" target="263"></edge>
+      <edge id="222" source="42" target="264"></edge>
+      <edge id="223" source="42" target="265"></edge>
+      <edge id="224" source="42" target="266"></edge>
+      <edge id="225" source="43" target="136"></edge>
+      <edge id="226" source="43" target="161"></edge>
+      <edge id="227" source="43" target="267"></edge>
+      <edge id="228" source="44" target="136"></edge>
+      <edge id="229" source="44" target="161"></edge>
+      <edge id="230" source="44" target="268"></edge>
+      <edge id="231" source="44" target="269"></edge>
+      <edge id="232" source="44" target="266"></edge>
+      <edge id="233" source="44" target="270"></edge>
+      <edge id="234" source="45" target="136"></edge>
+      <edge id="235" source="46" target="136"></edge>
+      <edge id="236" source="46" target="161"></edge>
+      <edge id="237" source="46" target="163"></edge>
+      <edge id="238" source="46" target="162"></edge>
+      <edge id="239" source="47" target="136"></edge>
+      <edge id="240" source="47" target="161"></edge>
+      <edge id="241" source="47" target="271"></edge>
+      <edge id="242" source="47" target="272"></edge>
+      <edge id="243" source="48" target="136"></edge>
+      <edge id="244" source="48" target="161"></edge>
+      <edge id="245" source="48" target="273"></edge>
+      <edge id="246" source="50" target="274"></edge>
+      <edge id="247" source="50" target="275"></edge>
+      <edge id="248" source="51" target="276"></edge>
+      <edge id="249" source="51" target="49"></edge>
+      <edge id="250" source="51" target="53"></edge>
+      <edge id="251" source="51" target="277"></edge>
+      <edge id="252" source="52" target="136"></edge>
+      <edge id="253" source="52" target="174"></edge>
+      <edge id="254" source="52" target="155"></edge>
+      <edge id="255" source="52" target="278"></edge>
+      <edge id="256" source="52" target="279"></edge>
+      <edge id="257" source="52" target="124"></edge>
+      <edge id="258" source="53" target="277"></edge>
+      <edge id="259" source="55" target="278"></edge>
+      <edge id="260" source="55" target="280"></edge>
+      <edge id="261" source="55" target="175"></edge>
+      <edge id="262" source="55" target="154"></edge>
+      <edge id="263" source="55" target="161"></edge>
+      <edge id="264" source="55" target="180"></edge>
+      <edge id="265" source="55" target="281"></edge>
+      <edge id="266" source="55" target="282"></edge>
+      <edge id="267" source="55" target="283"></edge>
+      <edge id="268" source="55" target="284"></edge>
+      <edge id="269" source="56" target="136"></edge>
+      <edge id="270" source="56" target="174"></edge>
+      <edge id="271" source="56" target="278"></edge>
+      <edge id="272" source="56" target="160"></edge>
+      <edge id="273" source="56" target="155"></edge>
+      <edge id="274" source="57" target="136"></edge>
+      <edge id="275" source="57" target="174"></edge>
+      <edge id="276" source="57" target="278"></edge>
+      <edge id="277" source="57" target="160"></edge>
+      <edge id="278" source="58" target="136"></edge>
+      <edge id="279" source="58" target="174"></edge>
+      <edge id="280" source="58" target="278"></edge>
+      <edge id="281" source="58" target="285"></edge>
+      <edge id="282" source="59" target="136"></edge>
+      <edge id="283" source="59" target="174"></edge>
+      <edge id="284" source="59" target="278"></edge>
+      <edge id="285" source="59" target="77"></edge>
+      <edge id="286" source="59" target="168"></edge>
+      <edge id="287" source="60" target="136"></edge>
+      <edge id="288" source="60" target="174"></edge>
+      <edge id="289" source="60" target="278"></edge>
+      <edge id="290" source="60" target="286"></edge>
+      <edge id="291" source="61" target="136"></edge>
+      <edge id="292" source="61" target="174"></edge>
+      <edge id="293" source="61" target="278"></edge>
+      <edge id="294" source="61" target="287"></edge>
+      <edge id="295" source="61" target="288"></edge>
+      <edge id="296" source="62" target="136"></edge>
+      <edge id="297" source="62" target="174"></edge>
+      <edge id="298" source="62" target="175"></edge>
+      <edge id="299" source="62" target="179"></edge>
+      <edge id="300" source="62" target="289"></edge>
+      <edge id="301" source="62" target="290"></edge>
+      <edge id="302" source="62" target="76"></edge>
+      <edge id="303" source="63" target="136"></edge>
+      <edge id="304" source="63" target="174"></edge>
+      <edge id="305" source="63" target="175"></edge>
+      <edge id="306" source="63" target="162"></edge>
+      <edge id="307" source="64" target="136"></edge>
+      <edge id="308" source="64" target="174"></edge>
+      <edge id="309" source="64" target="175"></edge>
+      <edge id="310" source="64" target="291"></edge>
+      <edge id="311" source="64" target="155"></edge>
+      <edge id="312" source="65" target="136"></edge>
+      <edge id="313" source="65" target="174"></edge>
+      <edge id="314" source="65" target="292"></edge>
+      <edge id="315" source="65" target="293"></edge>
+      <edge id="316" source="65" target="294"></edge>
+      <edge id="317" source="66" target="274"></edge>
+      <edge id="318" source="67" target="50"></edge>
+      <edge id="319" source="67" target="66"></edge>
+      <edge id="320" source="67" target="68"></edge>
+      <edge id="321" source="68" target="274"></edge>
+      <edge id="322" source="69" target="295"></edge>
+      <edge id="323" source="69" target="139"></edge>
+      <edge id="324" source="69" target="296"></edge>
+      <edge id="325" source="69" target="182"></edge>
+      <edge id="326" source="69" target="155"></edge>
+      <edge id="327" source="69" target="77"></edge>
+      <edge id="328" source="69" target="76"></edge>
+      <edge id="329" source="69" target="168"></edge>
+      <edge id="330" source="69" target="259"></edge>
+      <edge id="331" source="69" target="290"></edge>
+      <edge id="332" source="69" target="297"></edge>
+      <edge id="333" source="69" target="298"></edge>
+      <edge id="334" source="69" target="234"></edge>
+      <edge id="335" source="70" target="136"></edge>
+      <edge id="336" source="70" target="174"></edge>
+      <edge id="337" source="70" target="280"></edge>
+      <edge id="338" source="70" target="295"></edge>
+      <edge id="339" source="70" target="76"></edge>
+      <edge id="340" source="70" target="299"></edge>
+      <edge id="341" source="70" target="300"></edge>
+      <edge id="342" source="70" target="298"></edge>
+      <edge id="343" source="70" target="134"></edge>
+      <edge id="344" source="71" target="136"></edge>
+      <edge id="345" source="71" target="174"></edge>
+      <edge id="346" source="71" target="280"></edge>
+      <edge id="347" source="71" target="76"></edge>
+      <edge id="348" source="71" target="131"></edge>
+      <edge id="349" source="72" target="136"></edge>
+      <edge id="350" source="72" target="174"></edge>
+      <edge id="351" source="72" target="280"></edge>
+      <edge id="352" source="72" target="77"></edge>
+      <edge id="353" source="72" target="168"></edge>
+      <edge id="354" source="72" target="301"></edge>
+      <edge id="355" source="72" target="132"></edge>
+      <edge id="356" source="73" target="136"></edge>
+      <edge id="357" source="73" target="174"></edge>
+      <edge id="358" source="73" target="280"></edge>
+      <edge id="359" source="73" target="77"></edge>
+      <edge id="360" source="74" target="136"></edge>
+      <edge id="361" source="74" target="174"></edge>
+      <edge id="362" source="74" target="280"></edge>
+      <edge id="363" source="74" target="76"></edge>
+      <edge id="364" source="74" target="295"></edge>
+      <edge id="365" source="74" target="130"></edge>
+      <edge id="366" source="75" target="136"></edge>
+      <edge id="367" source="75" target="174"></edge>
+      <edge id="368" source="75" target="161"></edge>
+      <edge id="369" source="75" target="295"></edge>
+      <edge id="370" source="75" target="259"></edge>
+      <edge id="371" source="75" target="300"></edge>
+      <edge id="372" source="78" target="136"></edge>
+      <edge id="373" source="78" target="174"></edge>
+      <edge id="374" source="78" target="280"></edge>
+      <edge id="375" source="78" target="302"></edge>
+      <edge id="376" source="79" target="136"></edge>
+      <edge id="377" source="79" target="174"></edge>
+      <edge id="378" source="79" target="280"></edge>
+      <edge id="379" source="79" target="139"></edge>
+      <edge id="380" source="79" target="303"></edge>
+      <edge id="381" source="80" target="136"></edge>
+      <edge id="382" source="80" target="174"></edge>
+      <edge id="383" source="80" target="280"></edge>
+      <edge id="384" source="80" target="182"></edge>
+      <edge id="385" source="80" target="304"></edge>
+      <edge id="386" source="80" target="135"></edge>
+      <edge id="387" source="81" target="136"></edge>
+      <edge id="388" source="81" target="174"></edge>
+      <edge id="389" source="81" target="280"></edge>
+      <edge id="390" source="81" target="182"></edge>
+      <edge id="391" source="81" target="169"></edge>
+      <edge id="392" source="81" target="298"></edge>
+      <edge id="393" source="81" target="133"></edge>
+      <edge id="394" source="82" target="61"></edge>
+      <edge id="395" source="83" target="136"></edge>
+      <edge id="396" source="83" target="174"></edge>
+      <edge id="397" source="83" target="175"></edge>
+      <edge id="398" source="83" target="139"></edge>
+      <edge id="399" source="83" target="305"></edge>
+      <edge id="400" source="84" target="136"></edge>
+      <edge id="401" source="84" target="174"></edge>
+      <edge id="402" source="84" target="175"></edge>
+      <edge id="403" source="84" target="139"></edge>
+      <edge id="404" source="84" target="267"></edge>
+      <edge id="405" source="85" target="136"></edge>
+      <edge id="406" source="85" target="174"></edge>
+      <edge id="407" source="85" target="175"></edge>
+      <edge id="408" source="85" target="306"></edge>
+      <edge id="409" source="85" target="177"></edge>
+      <edge id="410" source="86" target="136"></edge>
+      <edge id="411" source="86" target="174"></edge>
+      <edge id="412" source="86" target="175"></edge>
+      <edge id="413" source="86" target="298"></edge>
+      <edge id="414" source="87" target="259"></edge>
+      <edge id="415" source="87" target="165"></edge>
+      <edge id="416" source="88" target="165"></edge>
+      <edge id="417" source="88" target="234"></edge>
+      <edge id="418" source="89" target="14"></edge>
+      <edge id="419" source="89" target="26"></edge>
+      <edge id="420" source="89" target="88"></edge>
+      <edge id="421" source="89" target="8"></edge>
+      <edge id="422" source="89" target="10"></edge>
+      <edge id="423" source="89" target="87"></edge>
+      <edge id="424" source="89" target="9"></edge>
+      <edge id="425" source="89" target="106"></edge>
+      <edge id="426" source="89" target="118"></edge>
+      <edge id="427" source="89" target="307"></edge>
+      <edge id="428" source="90" target="308"></edge>
+      <edge id="429" source="92" target="136"></edge>
+      <edge id="430" source="92" target="174"></edge>
+      <edge id="431" source="92" target="154"></edge>
+      <edge id="432" source="92" target="139"></edge>
+      <edge id="433" source="92" target="155"></edge>
+      <edge id="434" source="93" target="136"></edge>
+      <edge id="435" source="93" target="165"></edge>
+      <edge id="436" source="93" target="96"></edge>
+      <edge id="437" source="93" target="167"></edge>
+      <edge id="438" source="93" target="309"></edge>
+      <edge id="439" source="93" target="12"></edge>
+      <edge id="440" source="93" target="67"></edge>
+      <edge id="441" source="93" target="91"></edge>
+      <edge id="442" source="95" target="310"></edge>
+      <edge id="443" source="95" target="13"></edge>
+      <edge id="444" source="97" target="96"></edge>
+      <edge id="445" source="97" target="98"></edge>
+      <edge id="446" source="98" target="309"></edge>
+      <edge id="447" source="98" target="97"></edge>
+      <edge id="448" source="99" target="281"></edge>
+      <edge id="449" source="99" target="165"></edge>
+      <edge id="450" source="100" target="281"></edge>
+      <edge id="451" source="100" target="165"></edge>
+      <edge id="452" source="100" target="311"></edge>
+      <edge id="453" source="100" target="312"></edge>
+      <edge id="454" source="101" target="281"></edge>
+      <edge id="455" source="101" target="165"></edge>
+      <edge id="456" source="102" target="281"></edge>
+      <edge id="457" source="102" target="165"></edge>
+      <edge id="458" source="103" target="281"></edge>
+      <edge id="459" source="103" target="165"></edge>
+      <edge id="460" source="104" target="281"></edge>
+      <edge id="461" source="104" target="165"></edge>
+      <edge id="462" source="105" target="281"></edge>
+      <edge id="463" source="105" target="165"></edge>
+      <edge id="464" source="106" target="281"></edge>
+      <edge id="465" source="106" target="165"></edge>
+      <edge id="466" source="107" target="282"></edge>
+      <edge id="467" source="107" target="165"></edge>
+      <edge id="468" source="108" target="282"></edge>
+      <edge id="469" source="108" target="165"></edge>
+      <edge id="470" source="109" target="282"></edge>
+      <edge id="471" source="109" target="165"></edge>
+      <edge id="472" source="109" target="312"></edge>
+      <edge id="473" source="109" target="313"></edge>
+      <edge id="474" source="110" target="282"></edge>
+      <edge id="475" source="110" target="165"></edge>
+      <edge id="476" source="111" target="282"></edge>
+      <edge id="477" source="111" target="165"></edge>
+      <edge id="478" source="112" target="284"></edge>
+      <edge id="479" source="112" target="165"></edge>
+      <edge id="480" source="113" target="284"></edge>
+      <edge id="481" source="113" target="165"></edge>
+      <edge id="482" source="113" target="291"></edge>
+      <edge id="483" source="114" target="284"></edge>
+      <edge id="484" source="114" target="165"></edge>
+      <edge id="485" source="115" target="284"></edge>
+      <edge id="486" source="115" target="165"></edge>
+      <edge id="487" source="115" target="295"></edge>
+      <edge id="488" source="116" target="284"></edge>
+      <edge id="489" source="116" target="165"></edge>
+      <edge id="490" source="117" target="283"></edge>
+      <edge id="491" source="117" target="165"></edge>
+      <edge id="492" source="118" target="283"></edge>
+      <edge id="493" source="118" target="165"></edge>
+      <edge id="494" source="119" target="283"></edge>
+      <edge id="495" source="119" target="165"></edge>
+      <edge id="496" source="120" target="283"></edge>
+      <edge id="497" source="120" target="165"></edge>
+      <edge id="498" source="121" target="283"></edge>
+      <edge id="499" source="121" target="165"></edge>
+      <edge id="500" source="122" target="283"></edge>
+      <edge id="501" source="122" target="165"></edge>
+      <edge id="502" source="123" target="309"></edge>
+      <edge id="503" source="123" target="170"></edge>
+      <edge id="504" source="123" target="314"></edge>
+      <edge id="505" source="123" target="295"></edge>
+      <edge id="506" source="124" target="52"></edge>
+      <edge id="507" source="125" target="94"></edge>
+      <edge id="508" source="126" target="96"></edge>
+      <edge id="509" source="127" target="96"></edge>
+      <edge id="510" source="127" target="170"></edge>
+      <edge id="511" source="129" target="96"></edge>
+      <edge id="512" source="129" target="171"></edge>
+      <edge id="513" source="130" target="74"></edge>
+      <edge id="514" source="131" target="71"></edge>
+      <edge id="515" source="132" target="72"></edge>
+      <edge id="516" source="133" target="81"></edge>
+      <edge id="517" source="134" target="295"></edge>
+      <edge id="518" source="134" target="70"></edge>
+      <edge id="519" source="135" target="80"></edge>
+      <edge id="520" source="136" target="55"></edge>
+      <edge id="521" source="137" target="112"></edge>
+      <edge id="522" source="138" target="284"></edge>
+      <edge id="523" source="138" target="165"></edge>
+      <edge id="524" source="140" target="96"></edge>
+      <edge id="525" source="140" target="315"></edge>
+    </edges>
+  </graph>
+</gexf>

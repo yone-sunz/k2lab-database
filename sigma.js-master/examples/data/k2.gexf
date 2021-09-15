@@ -1,0 +1,2119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2021-05-10">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="278" label="2015">
+        <viz:size value="7.4615383"></viz:size>
+        <viz:position x="366.78195" y="275.56223"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="280" label="2016">
+        <viz:size value="8.076923"></viz:size>
+        <viz:position x="287.1884" y="307.1941"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="175" label="2017">
+        <viz:size value="8.384615"></viz:size>
+        <viz:position x="265.95206" y="203.8462"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="154" label="2018">
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="-49.037086" y="533.9894"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="161" label="2019">
+        <viz:size value="9.615385"></viz:size>
+        <viz:position x="-68.01375" y="161.54276"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="180" label="2020">
+        <viz:size value="7.769231"></viz:size>
+        <viz:position x="112.700356" y="295.61853"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="0" label="Scrapboxの使い方">
+        <viz:size value="8.384615"></viz:size>
+        <viz:position x="958.58453" y="-712.95703"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="1" label="Thesis">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="354.4794" y="867.96326"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="2" label="00 はじめに">
+        <viz:size value="6.5384617"></viz:size>
+        <viz:position x="736.4339" y="-561.7594"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="3" label="&amp;quot;Literalism Timeline&amp;quot; Resaerch">
+        <viz:size value="6.8461537"></viz:size>
+        <viz:position x="247.4835" y="667.58014"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="4" label="(Review) かたちは思考する">
+        <viz:size value="6.8461537"></viz:size>
+        <viz:position x="1127.4435" y="-85.7706"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="5" label="&amp;quot;Media Facades in Ginza&amp;quot;">
+        <viz:size value="6.5384617"></viz:size>
+        <viz:position x="103.912476" y="228.8092"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="6" label="Research Template">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="8.652475" y="500.59485"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="7" label="担当">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-1608.1091" y="-1097.8723"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="8" label="(Project) Countryside: The Future">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="-20.270147" y="-440.84628"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="9" label="(Project) Oita “WAGNER PROJECT” 2020">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="-33.72849" y="-463.75592"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="10" label="(Project) Gordon Matta-Clark : Mutation in Space">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="-81.6155" y="-523.33167"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="11" label="(Note) 生成変化・自己生成について">
+        <viz:size value="7.4615383"></viz:size>
+        <viz:position x="762.16583" y="-24.636423"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="12" label="(Note) Editer's Note">
+        <viz:size value="7.769231"></viz:size>
+        <viz:position x="555.0649" y="-282.9071"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="13" label="&amp;quot;Frederick Kiesler&amp;quot; Incorporating Time into Space—Chronological and Typological Analysis on the concept of ”Galaxy” and ”Endless”">
+        <viz:size value="7.769231"></viz:size>
+        <viz:position x="386.10162" y="212.65356"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="14" label="&amp;quot;Fixedness of Informal City&amp;quot; External Space Elements and Street Activities of Urban Informal Settlements: A Case Study of Dharavi, Mumbai">
+        <viz:size value="7.769231"></viz:size>
+        <viz:position x="212.91977" y="62.688484"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="15" label="&amp;quot;Beisi Village, China&amp;quot; Common Spaces of Apartment Housing in Chinese Urban Villages -Spatial Features and Usage in Beisi Village-">
+        <viz:size value="6.8461537"></viz:size>
+        <viz:position x="308.00995" y="160.74873"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="16" label="settings">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="306.86163" y="-1604.273"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="17" label="Asia Field Survay">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="318.34766" y="-17.800844"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="18" label="&amp;quot;Road Occupation Permit&amp;quot; A Study on the Utilization of Street Space under the Road Occupation Permit　-Through the case studies of streets utilizing the special permit within the COVID-19 situation-">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="19.282724" y="350.6985"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="19" label="&amp;quot;Gap Spaces&amp;quot; Research on the Mechanism and Usage of Gap Spaces in the Urban Context -Through Field Surveys of Shibuya River and Furukawa River in Tokyo">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="15.177498" y="400.10458"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="20" label="Research on The Process and Trend of Voluntary Ronovation -Through the Case Study of Hyperart Thomasson and Pattern Analysis of Koenji,Arakwa,yoyogi-">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="58.456806" y="395.77603"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="21" label="Research on Collages used in Architecture -Collage Classifications used in the Field of Art-">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="-4.456522" y="313.32172"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="22" label="Research on the Definitions of the word “Street” used in Descriptions of Architectural Projects -Through Analysis of Project Descriptions in Shinkenchiku and Jutakutokushu publications between 1970 and 2020-">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="47.67331" y="433.79166"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="23" label="Reconsideration of Aldo Rossi's Analogical Method ーThrough Analysis of his Artworks and Theatrical Works in the 1970sー">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="-14.843129" y="360.954"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="24" label="A Study of Physicality in Architecture -Through Analysis of the Works by Hans Hollein, Walter Pichler, Haus-Rucker-Co, and Coop Himmelb(l)au in 1960s and 1970s-">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="89.73113" y="439.9863"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="25" label="&amp;quot;Glitches&amp;quot; Research on the Usefulness of Glitches within the Degital Designing Process  -Through observational analysis of the user’s responses to pre-programmed glitches-">
+        <viz:size value="6.5384617"></viz:size>
+        <viz:position x="401.0453" y="332.0433"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="26" label="&amp;quot;Generative Facade, Klong Toey&amp;quot; A study of constituent elements of the street-scape and mechanism of generation and sustainability within dense residential district – Through analysis of Bangkok’s Klongtoei 70rai area alley ways –">
+        <viz:size value="8.692307"></viz:size>
+        <viz:position x="-357.54962" y="172.88072"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="27" label="&amp;quot;Icho Danchi&amp;quot; Study on the Conditions behind Exterior Space Utilization by the Foreign Residents -Through a Case Study of Icho Housing Complex in Kanagawa Prefecture-">
+        <viz:size value="8.692307"></viz:size>
+        <viz:position x="-208.54698" y="746.2058"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="28" label="&amp;quot;Machi librariy&amp;quot; A study on the aspect of books being a medium and their relationship with spaces -through a Survey of Machi libraries in Tokyo-">
+        <viz:size value="9.615385"></viz:size>
+        <viz:position x="-415.54257" y="570.6204"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="29" label="&amp;quot;Behaviors of singles&amp;quot; A study on behaviors and their ranges of singles population in the city – based on surveys from Sasazuka Area in Tokyo –">
+        <viz:size value="7.769231"></viz:size>
+        <viz:position x="-137.15373" y="657.12573"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="30" label="“New Babylon” The Relationship Between Spatial Abstraction Techniques and Architectural Elements -Through the Analysis of the Stage Set of The Royal Shakespeare Companys’ “Romeo &amp; Juliet-">
+        <viz:size value="7.4615383"></viz:size>
+        <viz:position x="126.32956" y="690.46826"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="31" label="Expansion of Concept in Constant Niewenhuys’s New Babylon -Spacial Prospective in Artwork of the Second Half of New Babylon-">
+        <viz:size value="7.769231"></viz:size>
+        <viz:position x="47.228436" y="893.02924"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="32" label="&amp;quot;Maarten Van Severen with OMA&amp;quot; A Research on Methodology and Philosophy behind Works of Maarten Van Severen -Through the Analysis of His Collaboration with OMA on Maison à Bordeaux-">
+        <viz:size value="7.1538463"></viz:size>
+        <viz:position x="-201.90436" y="360.2418"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="33" label="&amp;quot;Gordon Matta-Clark&amp;quot; Gordon Matta-Clark’s Concept of Spacial Recognition: Through Analysis of the Photo Works and 3D Modeling of〈Building Cut〉">
+        <viz:size value="7.769231"></viz:size>
+        <viz:position x="-61.144257" y="829.5709"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="34" label="&amp;quot;Profiling with tiles&amp;quot; A study on the correlation between building types and the ways tiles are used on their facades -Based on the field survey within Shinjuku ward in Tokyo-">
+        <viz:size value="7.769231"></viz:size>
+        <viz:position x="-290.20065" y="589.5246"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="35" label="&amp;quot;Contrast of light&amp;quot; A Study of the Effect of Natural Light on Impressions of Indoor Space -aiming at updating evaluation parameters and quantifying the effect-">
+        <viz:size value="8.076923"></viz:size>
+        <viz:position x="271.9703" y="792.14435"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="36" label="Research on the Relationship between Collective Dwelling Pattern and Private Domain in Slope Land: A Case Study of &amp;quot;Gancheon Cultural Village&amp;quot; in Busan, Korea.">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="-87.70723" y="137.18053"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="37" label="A study on the use and the characteristics of the secondary space within music halls -Through field survey and analysis of public music halls in central Tokyo-">
+        <viz:size value="6.5384617"></viz:size>
+        <viz:position x="-226.29585" y="288.77844"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="38" label="&amp;quot;Shin-Okubo Residents&amp;quot; Research on the Distribution of Living Bases and its Actual States within the Foreign Residents Concentrated Urban Area − Through the Case Study of Okubo District of Shinjuku Ward −">
+        <viz:size value="7.1538463"></viz:size>
+        <viz:position x="-126.64206" y="172.96689"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="39" label="A Study on Flexible Music Consumption Activities in Urban Using the Spatial Features of FreeTekno -Through a Survey of Usage of Small and Medium-sized Clubhouses in Central Tokyo-">
+        <viz:size value="6.230769"></viz:size>
+        <viz:position x="-164.3853" y="301.47995"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="40" label="The tendency and characteristic of architectural projects using crowd funding">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="-126.6585" y="246.1529"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="41" label="Research on the uses of temporally suspended urban sites -Through the analysis of actual cases-">
+        <viz:size value="6.230769"></viz:size>
+        <viz:position x="-151.3194" y="330.0212"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="42" label="『Ugliness』 in Architecture ―Through the analysis of Robert Venturi and Rem Koolhaas―">
+        <viz:size value="6.8461537"></viz:size>
+        <viz:position x="-250.47855" y="101.80688"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="43" label="Cedric Price’s Architectural Interpretation on Information Technology and Its Influence on Development of Works in Later Years">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="-31.76289" y="252.24265"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="44" label="Trait of “Japanese Squares” in Western Architectural Conception in the 1960s-70s -Through the Analysis of Works by Archigram and Cedric Price-">
+        <viz:size value="6.8461537"></viz:size>
+        <viz:position x="-217.17044" y="42.822098"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="45" label="Research Template_2">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="58.43728" y="528.3706"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="46" label="Research on Media Facades in relation to the transition in time of Ginza facades">
+        <viz:size value="6.230769"></viz:size>
+        <viz:position x="57.602226" y="165.6305"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="47" label="A research of the feasibility of artificial intelligence in the process of architectural design ―through the comparative analysis of shape synthesis by humans and GAN―">
+        <viz:size value="6.230769"></viz:size>
+        <viz:position x="-106.99805" y="62.020645"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="48" label="A Study into the Relationship Between Preparatory and Final Works in Architecture – through a research of the production process of self-built architecture –">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="-38.61117" y="114.28973"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="49" label="Password">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-1868.493" y="-964.71924"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="50" label="Plotter - PX-7550">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="371.62308" y="-1134.062"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="51" label="Laboratory Equipments">
+        <viz:size value="6.230769"></viz:size>
+        <viz:position x="-1966.7292" y="-926.36707"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="52" label="&amp;quot;Science Fiction&amp;quot; The Future View Transitions of Architects and Science Fiction Novelists">
+        <viz:size value="7.1538463"></viz:size>
+        <viz:position x="399.6248" y="463.40613"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="53" label="Printer">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="-1996.9248" y="-839.0005"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="54" label="image size test">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-711.3101" y="-1419.8387"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="55" label="02 Research / Projects">
+        <viz:size value="8.384615"></viz:size>
+        <viz:position x="140.89928" y="-11.11255"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="56" label="&amp;quot;Research as Design Approach&amp;quot; Study on Potential of Research as Design Approach for Creativity">
+        <viz:size value="6.5384617"></viz:size>
+        <viz:position x="432.17612" y="266.59616"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="57" label="&amp;quot;Columbariums&amp;quot; The evolution of the morphology of cemeteries in the modern metropolis and the changes in their social context Through the fieldwork research on the present state of columbariums within Tokyo’ s special wards">
+        <viz:size value="6.230769"></viz:size>
+        <viz:position x="456.22232" y="233.25153"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="58" label="&amp;quot;Separator&amp;quot; Reconsideration of Separator within Architecture Space  -Separate space, man, and time-">
+        <viz:size value="6.230769"></viz:size>
+        <viz:position x="375.0243" y="425.38205"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="59" label="&amp;quot;Shared Charges, Dharavi&amp;quot; Research on future urban residence from the perspective of the concept of shared charges and the relationship between mutual complementation">
+        <viz:size value="6.5384617"></viz:size>
+        <viz:position x="328.1341" y="222.94553"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="60" label="&amp;quot;Hub-Housing&amp;quot; A Study on Residential Complex Containing Regional Characteristics">
+        <viz:size value="6.230769"></viz:size>
+        <viz:position x="402.39258" y="401.60342"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="61" label="&amp;quot;Gigantic Architectural Device&amp;quot; Collection of Gigantic Architectural Device and Study on Spatial Property of Architectural Device">
+        <viz:size value="6.8461537"></viz:size>
+        <viz:position x="498.9759" y="441.58182"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="62" label="&amp;quot;India in Kasai&amp;quot; Adaptation of Immigrants to the Local Community: Relationship Between Expression of Cultural Identity and Alteration of Space by Indian">
+        <viz:size value="7.1538463"></viz:size>
+        <viz:position x="156.67662" y="355.69775"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="63" label="&amp;quot;Fractal Dimension&amp;quot; A study on the evaluation of the surface layer of the cityscape across a gradual scale from a near view to a panoramic view -Through fractal dimension analysis of landscape images-">
+        <viz:size value="6.230769"></viz:size>
+        <viz:position x="180.1256" y="220.07993"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="64" label="&amp;quot;Urban Adventure Playgrounds&amp;quot; The Management and Usage of Urban Adventure Playgrounds and its Effects on Surrounding Conditions">
+        <viz:size value="6.5384617"></viz:size>
+        <viz:position x="255.36218" y="159.45242"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="65" label="The Relationship Between Spatial Components and Usage in Apartment Housing Courtyards -Insights From Surveying Dutch Traditional Hofjes-">
+        <viz:size value="6.5384617"></viz:size>
+        <viz:position x="445.70734" y="571.5386"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="66" label="Plotter - Canon imagePROGRAF TX-2000">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="468.41357" y="-1077.5338"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="67" label="(Note) Laboratory Manuals">
+        <viz:size value="6.230769"></viz:size>
+        <viz:position x="474.48996" y="-829.141"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="68" label="Laser Cutter">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="499.43927" y="-1081.8132"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="69" label="03 Category">
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="250.23683" y="218.37918"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="70" label="&amp;quot;Reproductivity&amp;quot; Reproductivity of Urban space -Through the fieldwork of warning signs and surveillance within the main station areas in Tokyo-">
+        <viz:size value="8.076923"></viz:size>
+        <viz:position x="231.77466" y="180.95422"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="71" label="&amp;quot;Local Usage of Road Planned Sites&amp;quot; Analysis of Efective Usage Through Field Survey">
+        <viz:size value="6.8461537"></viz:size>
+        <viz:position x="186.12433" y="459.01706"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="72" label="&amp;quot;Mechanism of Local Community, Indonesia&amp;quot; Mechanism of Local Community Inheritance Under Transformation of Urban Dwelling Styles - the Case of Rusun Sombo as an Illustration of Kampung Redevelopment Projects –">
+        <viz:size value="7.4615383"></viz:size>
+        <viz:position x="453.52963" y="268.61026"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="73" label="&amp;quot;Small-scale Production&amp;quot; Accumulation of small-scale production sites">
+        <viz:size value="6.230769"></viz:size>
+        <viz:position x="283.64313" y="262.91577"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="74" label="&amp;quot;Air BnB&amp;quot; Effects and assignments of local community based accommodation led from field survey -comparative analysis of domestic and foreign-">
+        <viz:size value="7.1538463"></viz:size>
+        <viz:position x="192.53844" y="269.9107"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="75" label="The condition of urban multi-hub residents and the urban structure supporting them">
+        <viz:size value="6.8461537"></viz:size>
+        <viz:position x="162.57524" y="131.93617"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="76" label="field-survey-tokyo">
+        <viz:size value="8.076923"></viz:size>
+        <viz:position x="-24.282316" y="422.8713"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="77" label="field-survey-asia">
+        <viz:size value="6.8461537"></viz:size>
+        <viz:position x="352.29593" y="154.37585"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="78" label="&amp;quot;Memories though Elements&amp;quot; Interconnection of Architecture and Personal Memories though Elements of Space">
+        <viz:size value="6.230769"></viz:size>
+        <viz:position x="321.97134" y="463.9325"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="79" label="&amp;quot;Yves Brunier’s Landscape&amp;quot; Yves Brunier’s Architectual Interpretation on Landscape and its Efficacy">
+        <viz:size value="6.5384617"></viz:size>
+        <viz:position x="279.53317" y="475.6172"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="80" label="&amp;quot;VR Deep Space&amp;quot; Lighting Design of Deep Space Habitats: Evaluation of Lighting Patterns in ISS Japanese Experiment Module VR Model">
+        <viz:size value="7.1538463"></viz:size>
+        <viz:position x="347.1711" y="518.9607"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="81" label="&amp;quot;Origami Structure&amp;quot;">
+        <viz:size value="7.4615383"></viz:size>
+        <viz:position x="446.32065" y="325.60272"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="82" label="test">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="728.2388" y="551.57764"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="83" label="&amp;quot;Home Appliances&amp;quot; Research on the transition of home appliances and their impact on living space">
+        <viz:size value="6.5384617"></viz:size>
+        <viz:position x="348.4995" y="375.45026"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="84" label="&amp;quot;Cedric Price Workshop&amp;quot; The Influence of the Concept of Dramatic Workshop on the Theory and Works of Cedric Price">
+        <viz:size value="6.5384617"></viz:size>
+        <viz:position x="194.88263" y="315.78998"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="85" label="&amp;quot;Sound Space&amp;quot; Effects of Acoustic Cues on Room Size Perception When Visual Cues Are Present">
+        <viz:size value="6.5384617"></viz:size>
+        <viz:position x="409.60422" y="295.78043"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="86" label="&amp;quot;Clothing and Architecture&amp;quot; Research on a new place where the characteristics of clothing are diverted-Through research and practice of the relationship between clothing and architecture-">
+        <viz:size value="6.230769"></viz:size>
+        <viz:position x="256.83038" y="281.9993"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="87" label="(Project) House +-0">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="68.8046" y="-285.35773"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="88" label="(Project) Bookshelf">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="39.8446" y="-249.31688"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="89" label="kentaro">
+        <viz:size value="8.076923"></viz:size>
+        <viz:position x="-70.8499" y="-240.57646"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="90" label="(Presentation) Thinking Architecture in Post Pandemic">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-1337.9377" y="-1367.5713"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="91" label="(Note) Reference 検索用おすすめサイト">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="610.68964" y="-475.73593"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="92" label="&amp;quot;Void Timeline&amp;quot;">
+        <viz:size value="6.5384617"></viz:size>
+        <viz:position x="158.69807" y="453.90497"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="93" label="01 INDEX">
+        <viz:size value="7.769231"></viz:size>
+        <viz:position x="493.50415" y="-314.6696"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="94" label="testpage">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="865.50684" y="-821.21075"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="95" label="202103 Research Listup">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="591.2152" y="-50.43207"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="96" label="review">
+        <viz:size value="7.4615383"></viz:size>
+        <viz:position x="911.37665" y="-312.9542"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="97" label="(Review) 我々は人間なのか？ Are We Human?">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="1040.7234" y="-441.2406"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="98" label="(Slide) Are We Human?">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="956.2772" y="-446.2478"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="99" label="(Project) European Thinkbelt">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="127.30224" y="-656.93677"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="100" label="(Project) Wagner KAAT">
+        <viz:size value="6.230769"></viz:size>
+        <viz:position x="86.65301" y="-769.0614"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="101" label="(Project) Kaji Bldg 2017">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="159.24078" y="-678.6708"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="102" label="(Project) NTT 2017">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="94.6512" y="-691.9057"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="103" label="(Project) GHOST GUIDE TO TOKYO 2020">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="84.17159" y="-660.51086"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="104" label="(Project) Rhizomatiks 2017">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="129.37558" y="-692.0513"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="105" label="(Project) Seoul Biennale 2017">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="54.899143" y="-675.68634"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="106" label="(Project) TUMO Competition">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="16.1988" y="-458.7078"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="107" label="(Project) eduhub competition seoul 2018">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="223.39456" y="-660.59357"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="108" label="(Project) Kumano 2018">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="189.64944" y="-643.03156"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="109" label="(Project) CLAIMING COMMON SPACES -ART AND URBAN PRACTICE-">
+        <viz:size value="6.230769"></viz:size>
+        <viz:position x="162.01898" y="-760.9853"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="110" label="(Project) Sumida Research">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="218.51164" y="-618.8513"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="111" label="(Project) P&amp;H 2018">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="251.7113" y="-637.0991"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="112" label="(Project) O-Housing 2020">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="299.32324" y="-665.635"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="113" label="(Project) Morocco Playground Research">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="253.72722" y="-368.5153"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="114" label="(Project) Japan Ofiice Research 2020">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="271.25623" y="-564.6474"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="115" label="(Project) Book Landscape Book">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="288.8785" y="-297.8367"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="116" label="(Project) BEZOAR by CHARLOTTE DUMAS at the GINZA MAISON HERMES">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="309.71286" y="-545.81775"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="117" label="(Project) 個室都市東京 2019">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="67.42848" y="-596.1301"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="118" label="(Project) Wagner Frankfurt 2019">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="11.361388" y="-422.8934"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="119" label="(Project) Tripoli Competition 2019">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="96.61502" y="-581.762"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="120" label="(Project) KAFUU 2019">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="36.782204" y="-570.0758"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="121" label="(Project) EUROPAN15 Competiton 2019">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="8.104452" y="-591.0994"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="122" label="(Project) ENSA-V Workshop 2019">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="35.409634" y="-612.0769"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="123" label="(Slide) ARCHITECTURAL VISUALIZATION AND SEVERALNESS">
+        <viz:size value="6.5384617"></viz:size>
+        <viz:position x="694.4084" y="-149.54962"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="124" label="Untitled 2021/4/17 14:41:06">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="522.0802" y="570.45544"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="125" label="#testpage というタグがついたページ">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="954.27783" y="-1010.92114"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="126" label="(Review) Template">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="1108.938" y="-393.82544"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="127" label="(Review) Notation Cartography">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="1031.1694" y="-274.67648"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="128" label="Isadora Duncan">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="975.1683" y="-25.945919"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="129" label="(Review) 動いている庭">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="1086.871" y="-260.8675"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="130" label="Untitled 2021/4/19 10:35:30">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="186.98193" y="379.50983"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="131" label="Untitled 2021/4/19 10:50:48">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="206.99081" y="601.2545"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="132" label="Untitled 2021/4/19 11:08:03">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="618.05" y="273.85187"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="133" label="Untitled 2021/4/19 11:27:59">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="604.55615" y="366.36804"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="134" label="(Slide) Casestudy: Reproductivity of Urban space">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="296.0651" y="49.338284"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="135" label="Untitled 2021/4/19 12:31:19">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="430.61197" y="655.50726"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="136" label="research">
+        <viz:size value="25.0"></viz:size>
+        <viz:position x="120.39399" y="329.35864"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="137" label="Location:">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="347.78857" y="-879.45233"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="138" label="(Project) Template">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="304.29276" y="-579.88354"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="139" label="document-search">
+        <viz:size value="7.1538463"></viz:size>
+        <viz:position x="284.53482" y="416.15274"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="140" label="(Review) &amp;quot;マジョリティ園&amp;quot; / Majority Park">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="1192.3506" y="-425.7503"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="141" label="(Note) Render Material Website">
+        <viz:size value="5.0"></viz:size>
+        <viz:position x="-870.59204" y="-1361.5778"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="142" label="別ページ">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="1162.8276" y="-805.0693"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="143" label="リンク">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="1096.3351" y="-898.6009"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="144" label="ハッシュタグ">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="1058.8876" y="-915.4481"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="145" label="Scrapbox">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="1098.179" y="-825.61456"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="146" label="つながり">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="1147.7549" y="-844.6011"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="147" label="読んだ本">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="1135.1556" y="-779.398"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="148" label="人物">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="1061.6799" y="-858.4251"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="149" label="タスク">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="1123.159" y="-871.4639"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="150" label="自由">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="1025.4425" y="-894.0045"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="151" label="ページ">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="847.8819" y="-719.1385"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="152" label="Literalism">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="389.21783" y="849.3282"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="153" label="Minimalism">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="313.4147" y="879.8711"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="155" label="timeline">
+        <viz:size value="7.769231"></viz:size>
+        <viz:position x="258.6893" y="401.39102"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="156" label="芸術論">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="1353.5558" y="-113.9816"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="157" label="ロバートスミッソン">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="1326.7738" y="-87.42179"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="158" label="生成変化">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="1328.169" y="-149.6915"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="159" label="制作論">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="1340.9332" y="-49.188408"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="160" label="design-process">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="755.6943" y="116.67751"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="162" label="facade">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="82.60191" y="113.85721"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="163" label="media">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="205.62694" y="131.13362"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="164" label="Media Facades in Ginza">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-1575.6018" y="-1140.8458"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="165" label="project">
+        <viz:size value="14.846154"></viz:size>
+        <viz:position x="170.63701" y="-521.0094"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="166" label="gordon-matta-clark">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-216.25041" y="-706.1749"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="167" label="note">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="674.36676" y="-231.97954"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="168" label="informal-city">
+        <viz:size value="6.8461537"></viz:size>
+        <viz:position x="451.63336" y="104.22883"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="169" label="generative-design">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="694.27216" y="172.84552"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="170" label="notation">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="892.47125" y="-163.62286"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="171" label="wasteland">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="994.3345" y="-130.27492"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="172" label="glich">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="650.4541" y="165.35112"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="173" label="ページタイトル.icon ">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="693.985" y="-427.43665"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="174" label="thesis">
+        <viz:size value="13.923077"></viz:size>
+        <viz:position x="315.33124" y="324.6688"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="176" label="frederick-kiesler">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="597.7155" y="139.9746"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="177" label="body-sense">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="554.6368" y="238.69087"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="178" label="addhook">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="301.57965" y="-117.65707"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="179" label="field-survay">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="138.27705" y="169.42674"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="181" label="grasshopper">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="635.31744" y="410.51468"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="182" label="simulation">
+        <viz:size value="6.5384617"></viz:size>
+        <viz:position x="350.77707" y="488.24814"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="183" label="密集居住区">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-567.15704" y="52.12188"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="184" label="スケルトンインフィル">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-608.7411" y="106.45335"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="185" label="ジェントリフィケーション">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-591.9532" y="210.53831"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="186" label="バンコク">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-596.6913" y="71.696495"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="187" label="ファサード">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="-443.7659" y="402.34885"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="188" label="タイ">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-619.3473" y="141.51695"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="189" label="高密度居住">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-615.18695" y="180.41467"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="190" label="増改築">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-576.0811" y="159.40828"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="191" label="路地空間">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-567.11633" y="105.29362"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="192" label="いちょう団地">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-327.00397" y="981.11206"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="193" label="外国人居住者">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-381.0026" y="885.532"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="194" label="余白">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-305.25842" y="950.7906"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="195" label="都市">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="-280.73987" y="713.21857"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="196" label="多国籍住民">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-328.9929" y="924.6539"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="197" label="郊外団地">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-362.0979" y="960.5859"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="198" label="多文化共生">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-368.52652" y="926.9617"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="199" label="管理体制">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-403.35394" y="910.65436"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="200" label="利用実態">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-284.81107" y="973.5629"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="201" label="図書館">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-647.64703" y="557.485"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="202" label="東京">
+        <viz:size value="6.230769"></viz:size>
+        <viz:position x="-295.66116" y="409.16083"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="203" label="本">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-632.2216" y="600.55927"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="204" label="メディア">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-655.8653" y="688.1073"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="205" label="マイクロ・ライブラリー">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-618.3773" y="641.9686"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="206" label="コモンズ">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-674.37354" y="585.4071"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="207" label="都市転用">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-591.6177" y="709.8211"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="208" label="コミュニティ">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-674.4017" y="621.61816"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="209" label="公共施設利用">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-595.4485" y="748.31323"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="210" label="住民参加">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-612.0226" y="678.04114"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="211" label="bookshelf">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-668.3191" y="655.1727"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="212" label="library">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-633.79767" y="723.34955"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="213" label="単身者">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-185.03108" y="856.49994"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="214" label="渋谷区">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-227.96701" y="858.508"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="215" label="銭湯">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-272.61356" y="822.8747"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="216" label="コインランドリー">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-230.85327" y="816.86316"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="217" label="笹塚">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-298.1919" y="788.8551"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="218" label="シチュアシオニスト">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="170.06462" y="922.7034"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="219" label="作家論">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="36.38218" y="858.94305"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="220" label="絵画分析">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="179.91301" y="883.2712"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="221" label="NewBabylon">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="129.37215" y="885.95526"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="222" label="ConstantNieuwenhuys">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="123.078285" y="924.322"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="223" label="演劇">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="5.913946" y="1153.7373"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="224" label="抽象化手法">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="41.1367" y="1146.8909"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="225" label="舞台装置">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="82.01987" y="1107.8983"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="226" label="Romeo_and_Juliet">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="26.306772" y="1104.968"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="227" label="装飾">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="78.13634" y="1153.4651"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="228" label="建築的構成要素">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="118.21982" y="1125.155"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="229" label="ふるまい">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-20.512667" y="1125.9083"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="230" label="マールテン・ファン・セーヴェレン">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-423.1325" y="363.13834"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="231" label="Maarten_Van_Severenn">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-404.15393" y="407.84677"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="232" label="家具">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-412.42038" y="448.07434"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="233" label="MVS">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-374.48096" y="467.623"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="234" label="furnitecture">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="-1.5072043" y="76.262856"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="235" label="Gordon_Matta-Clark">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-127.14716" y="1075.908"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="236" label="ゴードン・マッタ=クラーク">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-90.41768" y="1034.3032"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="237" label="サイト・スペシフィック">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-139.96194" y="1029.5126"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="238" label="3次元モデル">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-182.10782" y="1028.1881"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="239" label="作品分析">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-167.38878" y="1062.6777"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="240" label="空間視線解析">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-83.47978" y="1068.9581"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="241" label="外装タイル">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-488.34952" y="683.4188"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="242" label="ヒューマンスケール">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-452.85974" y="694.12946"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="243" label="都市景観">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-466.6075" y="760.3801"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="244" label="新宿区">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-483.97363" y="725.77765"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="245" label="都市調査">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-426.59427" y="750.21356"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="246" label="自然光">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="329.76218" y="1009.9344"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="247" label="印象評価">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="340.52316" y="1047.6584"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="248" label="明暗">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="377.4119" y="991.8701"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="249" label="空間認知">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="296.24933" y="1037.2894"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="250" label="視覚">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="381.72037" y="1030.972"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="251" label="心理分析">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="417.5239" y="1007.73456"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="252" label="行動分析">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="433.71985" y="972.863"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="253" label="釜山">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-232.19586" y="-12.612882"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="254" label="音楽ホール">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-450.59357" y="260.9877"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="255" label="ホワイエ">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-459.33646" y="300.81656"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="256" label="外国人居住区">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-329.90872" y="116.35789"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="257" label="大久保">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-294.65155" y="55.171703"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="258" label="shin-okubo">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-324.00793" y="77.05649"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="259" label="connectivity">
+        <viz:size value="6.230769"></viz:size>
+        <viz:position x="70.59492" y="4.954942"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="260" label="音楽">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-366.8507" y="289.9181"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="261" label="クラウドファンディング">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-324.2902" y="205.28673"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="262" label="仮設">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-343.5314" y="355.97055"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="263" label="Ugliness">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-468.83365" y="-10.718538"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="264" label="RobertVenturi">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-443.9267" y="-37.308105"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="265" label="RemKoolhaas">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-461.72626" y="24.785103"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="266" label="postmodernism">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="-360.40253" y="-11.45699"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="267" label="cedric-price">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="34.719486" y="268.15"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="268" label="Archigram">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-399.06378" y="-126.32785"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="269" label="CedricPrice">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-416.6683" y="-96.50181"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="270" label="広場">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-364.04285" y="-136.39967"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="271" label="AI">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-222.90451" y="-123.11812"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="272" label="GAN">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-258.20575" y="-99.048904"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="273" label="セルフビルド">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-144.97137" y="-56.010597"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="274" label="lab-equipment">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="420.93127" y="-1220.7664"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="275" label="時間の目安">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="206.46774" y="-1321.8561"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="276" label="PlotterPX-7550">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-1898.0154" y="-909.2502"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="277" label="lab_manual">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="-1970.6227" y="-867.1885"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="279" label="SF">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="594.00684" y="617.38"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="281" label="2017-project">
+        <viz:size value="7.769231"></viz:size>
+        <viz:position x="106.136246" y="-512.30566"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="282" label="2018-project">
+        <viz:size value="6.8461537"></viz:size>
+        <viz:position x="188.10217" y="-475.54974"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="283" label="2019-project">
+        <viz:size value="7.1538463"></viz:size>
+        <viz:position x="70.93105" y="-420.7883"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="284" label="2020-project">
+        <viz:size value="7.1538463"></viz:size>
+        <viz:position x="257.09805" y="-406.18933"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="285" label="separater">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="572.0681" y="557.5153"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="286" label="hub-house">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="619.7913" y="507.49045"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="287" label="device">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="740.36896" y="513.4884"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="288" label="巨大建築">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="708.8806" y="582.8128"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="289" label="immigrant">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="138.33548" y="560.11725"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="290" label="multinational">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="246.00066" y="348.40906"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="291" label="playground">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="268.265" y="-142.21686"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="292" label="housing">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="628.306" y="747.1435"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="293" label="housing-complex">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="650.3617" y="717.79724"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="294" label="courtyard">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="597.69116" y="767.6604"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="295" label="case-study">
+        <viz:size value="7.1538463"></viz:size>
+        <viz:position x="348.04233" y="9.103535"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="296" label="field-survey">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="459.0393" y="138.23564"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="297" label="artist-research">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="417.42932" y="72.74325"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="298" label="temporary">
+        <viz:size value="6.230769"></viz:size>
+        <viz:position x="362.5809" y="227.1345"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="299" label="reproductivity">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="388.04996" y="23.116472"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="300" label="tokyo">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="209.54106" y="14.485518"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="301" label="indonesia">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="702.6111" y="295.89407"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="302" label="conservation">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="480.94257" y="637.9517"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="303" label="landscape">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="370.49228" y="677.58417"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="304" label="VR">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="494.391" y="712.9494"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="305" label="living-space">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="552.71716" y="481.78027"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="306" label="sound">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="645.89874" y="323.39645"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="307" label="member">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-228.97798" y="-397.6587"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="308" label="group-presentation">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="-1372.548" y="-1319.6991"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="309" label="slide">
+        <viz:size value="5.923077"></viz:size>
+        <viz:position x="751.30005" y="-345.21027"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="310" label="Editer's Note">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="787.675" y="-108.96908"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="311" label="wagner-project">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="24.037592" y="-985.6013"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="312" label="port-b">
+        <viz:size value="5.6153846"></viz:size>
+        <viz:position x="102.07531" y="-918.6175"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="313" label="HAU website">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="153.17102" y="-985.2574"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="314" label="visualization">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="877.56854" y="-233.43698"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+      <node id="315" label="pubric-space">
+        <viz:size value="5.3076925"></viz:size>
+        <viz:position x="1388.5354" y="-501.47644"></viz:position>
+        <viz:color r="154" g="154" b="154"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="142"></edge>
+      <edge id="1" source="0" target="143"></edge>
+      <edge id="2" source="0" target="144"></edge>
+      <edge id="3" source="0" target="145"></edge>
+      <edge id="4" source="0" target="146"></edge>
+      <edge id="5" source="0" target="147"></edge>
+      <edge id="6" source="0" target="148"></edge>
+      <edge id="7" source="0" target="149"></edge>
+      <edge id="8" source="0" target="150"></edge>
+      <edge id="9" source="1" target="3"></edge>
+      <edge id="10" source="2" target="0"></edge>
+      <edge id="11" source="2" target="93"></edge>
+      <edge id="12" source="2" target="151"></edge>
+      <edge id="13" source="2" target="94"></edge>
+      <edge id="14" source="2" target="12"></edge>
+      <edge id="15" source="3" target="152"></edge>
+      <edge id="16" source="3" target="153"></edge>
+      <edge id="17" source="3" target="154"></edge>
+      <edge id="18" source="3" target="155"></edge>
+      <edge id="19" source="3" target="139"></edge>
+      <edge id="20" source="4" target="96"></edge>
+      <edge id="21" source="4" target="156"></edge>
+      <edge id="22" source="4" target="157"></edge>
+      <edge id="23" source="4" target="158"></edge>
+      <edge id="24" source="4" target="159"></edge>
+      <edge id="25" source="4" target="160"></edge>
+      <edge id="26" source="5" target="136"></edge>
+      <edge id="27" source="5" target="155"></edge>
+      <edge id="28" source="5" target="161"></edge>
+      <edge id="29" source="5" target="162"></edge>
+      <edge id="30" source="5" target="163"></edge>
+      <edge id="31" source="6" target="136"></edge>
+      <edge id="32" source="7" target="164"></edge>
+      <edge id="33" source="8" target="165"></edge>
+      <edge id="34" source="9" target="165"></edge>
+      <edge id="35" source="10" target="165"></edge>
+      <edge id="36" source="10" target="166"></edge>
+      <edge id="37" source="11" target="167"></edge>
+      <edge id="38" source="11" target="168"></edge>
+      <edge id="39" source="11" target="169"></edge>
+      <edge id="40" source="11" target="170"></edge>
+      <edge id="41" source="11" target="171"></edge>
+      <edge id="42" source="11" target="128"></edge>
+      <edge id="43" source="11" target="172"></edge>
+      <edge id="44" source="11" target="123"></edge>
+      <edge id="45" source="12" target="0"></edge>
+      <edge id="46" source="12" target="136"></edge>
+      <edge id="47" source="12" target="165"></edge>
+      <edge id="48" source="12" target="96"></edge>
+      <edge id="49" source="12" target="167"></edge>
+      <edge id="50" source="12" target="173"></edge>
+      <edge id="51" source="12" target="95"></edge>
+      <edge id="52" source="13" target="136"></edge>
+      <edge id="53" source="13" target="174"></edge>
+      <edge id="54" source="13" target="175"></edge>
+      <edge id="55" source="13" target="139"></edge>
+      <edge id="56" source="13" target="176"></edge>
+      <edge id="57" source="13" target="163"></edge>
+      <edge id="58" source="13" target="177"></edge>
+      <edge id="59" source="13" target="155"></edge>
+      <edge id="60" source="14" target="136"></edge>
+      <edge id="61" source="14" target="174"></edge>
+      <edge id="62" source="14" target="175"></edge>
+      <edge id="63" source="14" target="178"></edge>
+      <edge id="64" source="14" target="179"></edge>
+      <edge id="65" source="14" target="77"></edge>
+      <edge id="66" source="14" target="168"></edge>
+      <edge id="67" source="15" target="136"></edge>
+      <edge id="68" source="15" target="174"></edge>
+      <edge id="69" source="15" target="175"></edge>
+      <edge id="70" source="15" target="77"></edge>
+      <edge id="71" source="15" target="168"></edge>
+      <edge id="72" source="17" target="14"></edge>
+      <edge id="73" source="17" target="15"></edge>
+      <edge id="74" source="18" target="136"></edge>
+      <edge id="75" source="18" target="180"></edge>
+      <edge id="76" source="19" target="136"></edge>
+      <edge id="77" source="19" target="180"></edge>
+      <edge id="78" source="19" target="76"></edge>
+      <edge id="79" source="20" target="136"></edge>
+      <edge id="80" source="20" target="180"></edge>
+      <edge id="81" source="21" target="136"></edge>
+      <edge id="82" source="21" target="180"></edge>
+      <edge id="83" source="22" target="136"></edge>
+      <edge id="84" source="22" target="180"></edge>
+      <edge id="85" source="23" target="136"></edge>
+      <edge id="86" source="23" target="180"></edge>
+      <edge id="87" source="24" target="136"></edge>
+      <edge id="88" source="24" target="180"></edge>
+      <edge id="89" source="25" target="136"></edge>
+      <edge id="90" source="25" target="180"></edge>
+      <edge id="91" source="25" target="172"></edge>
+      <edge id="92" source="25" target="181"></edge>
+      <edge id="93" source="25" target="182"></edge>
+      <edge id="94" source="26" target="136"></edge>
+      <edge id="95" source="26" target="154"></edge>
+      <edge id="96" source="26" target="183"></edge>
+      <edge id="97" source="26" target="184"></edge>
+      <edge id="98" source="26" target="185"></edge>
+      <edge id="99" source="26" target="186"></edge>
+      <edge id="100" source="26" target="187"></edge>
+      <edge id="101" source="26" target="188"></edge>
+      <edge id="102" source="26" target="189"></edge>
+      <edge id="103" source="26" target="190"></edge>
+      <edge id="104" source="26" target="191"></edge>
+      <edge id="105" source="27" target="136"></edge>
+      <edge id="106" source="27" target="154"></edge>
+      <edge id="107" source="27" target="192"></edge>
+      <edge id="108" source="27" target="193"></edge>
+      <edge id="109" source="27" target="194"></edge>
+      <edge id="110" source="27" target="195"></edge>
+      <edge id="111" source="27" target="196"></edge>
+      <edge id="112" source="27" target="197"></edge>
+      <edge id="113" source="27" target="198"></edge>
+      <edge id="114" source="27" target="199"></edge>
+      <edge id="115" source="27" target="200"></edge>
+      <edge id="116" source="27" target="76"></edge>
+      <edge id="117" source="28" target="136"></edge>
+      <edge id="118" source="28" target="154"></edge>
+      <edge id="119" source="28" target="201"></edge>
+      <edge id="120" source="28" target="202"></edge>
+      <edge id="121" source="28" target="203"></edge>
+      <edge id="122" source="28" target="204"></edge>
+      <edge id="123" source="28" target="205"></edge>
+      <edge id="124" source="28" target="206"></edge>
+      <edge id="125" source="28" target="207"></edge>
+      <edge id="126" source="28" target="208"></edge>
+      <edge id="127" source="28" target="209"></edge>
+      <edge id="128" source="28" target="210"></edge>
+      <edge id="129" source="28" target="211"></edge>
+      <edge id="130" source="28" target="212"></edge>
+      <edge id="131" source="28" target="76"></edge>
+      <edge id="132" source="29" target="136"></edge>
+      <edge id="133" source="29" target="154"></edge>
+      <edge id="134" source="29" target="213"></edge>
+      <edge id="135" source="29" target="195"></edge>
+      <edge id="136" source="29" target="214"></edge>
+      <edge id="137" source="29" target="215"></edge>
+      <edge id="138" source="29" target="216"></edge>
+      <edge id="139" source="29" target="217"></edge>
+      <edge id="140" source="29" target="76"></edge>
+      <edge id="141" source="30" target="136"></edge>
+      <edge id="142" source="30" target="154"></edge>
+      <edge id="143" source="30" target="218"></edge>
+      <edge id="144" source="30" target="219"></edge>
+      <edge id="145" source="30" target="220"></edge>
+      <edge id="146" source="30" target="221"></edge>
+      <edge id="147" source="30" target="222"></edge>
+      <edge id="148" source="30" target="155"></edge>
+      <edge id="149" source="31" target="136"></edge>
+      <edge id="150" source="31" target="154"></edge>
+      <edge id="151" source="31" target="223"></edge>
+      <edge id="152" source="31" target="224"></edge>
+      <edge id="153" source="31" target="225"></edge>
+      <edge id="154" source="31" target="226"></edge>
+      <edge id="155" source="31" target="227"></edge>
+      <edge id="156" source="31" target="228"></edge>
+      <edge id="157" source="31" target="229"></edge>
+      <edge id="158" source="32" target="136"></edge>
+      <edge id="159" source="32" target="154"></edge>
+      <edge id="160" source="32" target="230"></edge>
+      <edge id="161" source="32" target="231"></edge>
+      <edge id="162" source="32" target="232"></edge>
+      <edge id="163" source="32" target="233"></edge>
+      <edge id="164" source="32" target="234"></edge>
+      <edge id="165" source="33" target="136"></edge>
+      <edge id="166" source="33" target="154"></edge>
+      <edge id="167" source="33" target="235"></edge>
+      <edge id="168" source="33" target="236"></edge>
+      <edge id="169" source="33" target="237"></edge>
+      <edge id="170" source="33" target="238"></edge>
+      <edge id="171" source="33" target="219"></edge>
+      <edge id="172" source="33" target="239"></edge>
+      <edge id="173" source="33" target="240"></edge>
+      <edge id="174" source="34" target="136"></edge>
+      <edge id="175" source="34" target="154"></edge>
+      <edge id="176" source="34" target="241"></edge>
+      <edge id="177" source="34" target="195"></edge>
+      <edge id="178" source="34" target="242"></edge>
+      <edge id="179" source="34" target="187"></edge>
+      <edge id="180" source="34" target="243"></edge>
+      <edge id="181" source="34" target="244"></edge>
+      <edge id="182" source="34" target="245"></edge>
+      <edge id="183" source="35" target="136"></edge>
+      <edge id="184" source="35" target="154"></edge>
+      <edge id="185" source="35" target="246"></edge>
+      <edge id="186" source="35" target="247"></edge>
+      <edge id="187" source="35" target="248"></edge>
+      <edge id="188" source="35" target="249"></edge>
+      <edge id="189" source="35" target="250"></edge>
+      <edge id="190" source="35" target="251"></edge>
+      <edge id="191" source="35" target="252"></edge>
+      <edge id="192" source="35" target="182"></edge>
+      <edge id="193" source="36" target="136"></edge>
+      <edge id="194" source="36" target="161"></edge>
+      <edge id="195" source="36" target="253"></edge>
+      <edge id="196" source="37" target="136"></edge>
+      <edge id="197" source="37" target="161"></edge>
+      <edge id="198" source="37" target="254"></edge>
+      <edge id="199" source="37" target="255"></edge>
+      <edge id="200" source="37" target="202"></edge>
+      <edge id="201" source="38" target="136"></edge>
+      <edge id="202" source="38" target="161"></edge>
+      <edge id="203" source="38" target="256"></edge>
+      <edge id="204" source="38" target="257"></edge>
+      <edge id="205" source="38" target="76"></edge>
+      <edge id="206" source="38" target="258"></edge>
+      <edge id="207" source="38" target="259"></edge>
+      <edge id="208" source="39" target="136"></edge>
+      <edge id="209" source="39" target="161"></edge>
+      <edge id="210" source="39" target="260"></edge>
+      <edge id="211" source="39" target="202"></edge>
+      <edge id="212" source="40" target="136"></edge>
+      <edge id="213" source="40" target="161"></edge>
+      <edge id="214" source="40" target="261"></edge>
+      <edge id="215" source="41" target="136"></edge>
+      <edge id="216" source="41" target="161"></edge>
+      <edge id="217" source="41" target="262"></edge>
+      <edge id="218" source="41" target="202"></edge>
+      <edge id="219" source="42" target="136"></edge>
+      <edge id="220" source="42" target="161"></edge>
+      <edge id="221" source="42" target="263"></edge>
+      <edge id="222" source="42" target="264"></edge>
+      <edge id="223" source="42" target="265"></edge>
+      <edge id="224" source="42" target="266"></edge>
+      <edge id="225" source="43" target="136"></edge>
+      <edge id="226" source="43" target="161"></edge>
+      <edge id="227" source="43" target="267"></edge>
+      <edge id="228" source="44" target="136"></edge>
+      <edge id="229" source="44" target="161"></edge>
+      <edge id="230" source="44" target="268"></edge>
+      <edge id="231" source="44" target="269"></edge>
+      <edge id="232" source="44" target="266"></edge>
+      <edge id="233" source="44" target="270"></edge>
+      <edge id="234" source="45" target="136"></edge>
+      <edge id="235" source="46" target="136"></edge>
+      <edge id="236" source="46" target="161"></edge>
+      <edge id="237" source="46" target="163"></edge>
+      <edge id="238" source="46" target="162"></edge>
+      <edge id="239" source="47" target="136"></edge>
+      <edge id="240" source="47" target="161"></edge>
+      <edge id="241" source="47" target="271"></edge>
+      <edge id="242" source="47" target="272"></edge>
+      <edge id="243" source="48" target="136"></edge>
+      <edge id="244" source="48" target="161"></edge>
+      <edge id="245" source="48" target="273"></edge>
+      <edge id="246" source="50" target="274"></edge>
+      <edge id="247" source="50" target="275"></edge>
+      <edge id="248" source="51" target="276"></edge>
+      <edge id="249" source="51" target="49"></edge>
+      <edge id="250" source="51" target="53"></edge>
+      <edge id="251" source="51" target="277"></edge>
+      <edge id="252" source="52" target="136"></edge>
+      <edge id="253" source="52" target="174"></edge>
+      <edge id="254" source="52" target="155"></edge>
+      <edge id="255" source="52" target="278"></edge>
+      <edge id="256" source="52" target="279"></edge>
+      <edge id="257" source="52" target="124"></edge>
+      <edge id="258" source="53" target="277"></edge>
+      <edge id="259" source="55" target="278"></edge>
+      <edge id="260" source="55" target="280"></edge>
+      <edge id="261" source="55" target="175"></edge>
+      <edge id="262" source="55" target="154"></edge>
+      <edge id="263" source="55" target="161"></edge>
+      <edge id="264" source="55" target="180"></edge>
+      <edge id="265" source="55" target="281"></edge>
+      <edge id="266" source="55" target="282"></edge>
+      <edge id="267" source="55" target="283"></edge>
+      <edge id="268" source="55" target="284"></edge>
+      <edge id="269" source="56" target="136"></edge>
+      <edge id="270" source="56" target="174"></edge>
+      <edge id="271" source="56" target="278"></edge>
+      <edge id="272" source="56" target="160"></edge>
+      <edge id="273" source="56" target="155"></edge>
+      <edge id="274" source="57" target="136"></edge>
+      <edge id="275" source="57" target="174"></edge>
+      <edge id="276" source="57" target="278"></edge>
+      <edge id="277" source="57" target="160"></edge>
+      <edge id="278" source="58" target="136"></edge>
+      <edge id="279" source="58" target="174"></edge>
+      <edge id="280" source="58" target="278"></edge>
+      <edge id="281" source="58" target="285"></edge>
+      <edge id="282" source="59" target="136"></edge>
+      <edge id="283" source="59" target="174"></edge>
+      <edge id="284" source="59" target="278"></edge>
+      <edge id="285" source="59" target="77"></edge>
+      <edge id="286" source="59" target="168"></edge>
+      <edge id="287" source="60" target="136"></edge>
+      <edge id="288" source="60" target="174"></edge>
+      <edge id="289" source="60" target="278"></edge>
+      <edge id="290" source="60" target="286"></edge>
+      <edge id="291" source="61" target="136"></edge>
+      <edge id="292" source="61" target="174"></edge>
+      <edge id="293" source="61" target="278"></edge>
+      <edge id="294" source="61" target="287"></edge>
+      <edge id="295" source="61" target="288"></edge>
+      <edge id="296" source="62" target="136"></edge>
+      <edge id="297" source="62" target="174"></edge>
+      <edge id="298" source="62" target="175"></edge>
+      <edge id="299" source="62" target="179"></edge>
+      <edge id="300" source="62" target="289"></edge>
+      <edge id="301" source="62" target="290"></edge>
+      <edge id="302" source="62" target="76"></edge>
+      <edge id="303" source="63" target="136"></edge>
+      <edge id="304" source="63" target="174"></edge>
+      <edge id="305" source="63" target="175"></edge>
+      <edge id="306" source="63" target="162"></edge>
+      <edge id="307" source="64" target="136"></edge>
+      <edge id="308" source="64" target="174"></edge>
+      <edge id="309" source="64" target="175"></edge>
+      <edge id="310" source="64" target="291"></edge>
+      <edge id="311" source="64" target="155"></edge>
+      <edge id="312" source="65" target="136"></edge>
+      <edge id="313" source="65" target="174"></edge>
+      <edge id="314" source="65" target="292"></edge>
+      <edge id="315" source="65" target="293"></edge>
+      <edge id="316" source="65" target="294"></edge>
+      <edge id="317" source="66" target="274"></edge>
+      <edge id="318" source="67" target="50"></edge>
+      <edge id="319" source="67" target="66"></edge>
+      <edge id="320" source="67" target="68"></edge>
+      <edge id="321" source="68" target="274"></edge>
+      <edge id="322" source="69" target="295"></edge>
+      <edge id="323" source="69" target="139"></edge>
+      <edge id="324" source="69" target="296"></edge>
+      <edge id="325" source="69" target="182"></edge>
+      <edge id="326" source="69" target="155"></edge>
+      <edge id="327" source="69" target="77"></edge>
+      <edge id="328" source="69" target="76"></edge>
+      <edge id="329" source="69" target="168"></edge>
+      <edge id="330" source="69" target="259"></edge>
+      <edge id="331" source="69" target="290"></edge>
+      <edge id="332" source="69" target="297"></edge>
+      <edge id="333" source="69" target="298"></edge>
+      <edge id="334" source="69" target="234"></edge>
+      <edge id="335" source="70" target="136"></edge>
+      <edge id="336" source="70" target="174"></edge>
+      <edge id="337" source="70" target="280"></edge>
+      <edge id="338" source="70" target="295"></edge>
+      <edge id="339" source="70" target="76"></edge>
+      <edge id="340" source="70" target="299"></edge>
+      <edge id="341" source="70" target="300"></edge>
+      <edge id="342" source="70" target="298"></edge>
+      <edge id="343" source="70" target="134"></edge>
+      <edge id="344" source="71" target="136"></edge>
+      <edge id="345" source="71" target="174"></edge>
+      <edge id="346" source="71" target="280"></edge>
+      <edge id="347" source="71" target="76"></edge>
+      <edge id="348" source="71" target="131"></edge>
+      <edge id="349" source="72" target="136"></edge>
+      <edge id="350" source="72" target="174"></edge>
+      <edge id="351" source="72" target="280"></edge>
+      <edge id="352" source="72" target="77"></edge>
+      <edge id="353" source="72" target="168"></edge>
+      <edge id="354" source="72" target="301"></edge>
+      <edge id="355" source="72" target="132"></edge>
+      <edge id="356" source="73" target="136"></edge>
+      <edge id="357" source="73" target="174"></edge>
+      <edge id="358" source="73" target="280"></edge>
+      <edge id="359" source="73" target="77"></edge>
+      <edge id="360" source="74" target="136"></edge>
+      <edge id="361" source="74" target="174"></edge>
+      <edge id="362" source="74" target="280"></edge>
+      <edge id="363" source="74" target="76"></edge>
+      <edge id="364" source="74" target="295"></edge>
+      <edge id="365" source="74" target="130"></edge>
+      <edge id="366" source="75" target="136"></edge>
+      <edge id="367" source="75" target="174"></edge>
+      <edge id="368" source="75" target="161"></edge>
+      <edge id="369" source="75" target="295"></edge>
+      <edge id="370" source="75" target="259"></edge>
+      <edge id="371" source="75" target="300"></edge>
+      <edge id="372" source="78" target="136"></edge>
+      <edge id="373" source="78" target="174"></edge>
+      <edge id="374" source="78" target="280"></edge>
+      <edge id="375" source="78" target="302"></edge>
+      <edge id="376" source="79" target="136"></edge>
+      <edge id="377" source="79" target="174"></edge>
+      <edge id="378" source="79" target="280"></edge>
+      <edge id="379" source="79" target="139"></edge>
+      <edge id="380" source="79" target="303"></edge>
+      <edge id="381" source="80" target="136"></edge>
+      <edge id="382" source="80" target="174"></edge>
+      <edge id="383" source="80" target="280"></edge>
+      <edge id="384" source="80" target="182"></edge>
+      <edge id="385" source="80" target="304"></edge>
+      <edge id="386" source="80" target="135"></edge>
+      <edge id="387" source="81" target="136"></edge>
+      <edge id="388" source="81" target="174"></edge>
+      <edge id="389" source="81" target="280"></edge>
+      <edge id="390" source="81" target="182"></edge>
+      <edge id="391" source="81" target="169"></edge>
+      <edge id="392" source="81" target="298"></edge>
+      <edge id="393" source="81" target="133"></edge>
+      <edge id="394" source="82" target="61"></edge>
+      <edge id="395" source="83" target="136"></edge>
+      <edge id="396" source="83" target="174"></edge>
+      <edge id="397" source="83" target="175"></edge>
+      <edge id="398" source="83" target="139"></edge>
+      <edge id="399" source="83" target="305"></edge>
+      <edge id="400" source="84" target="136"></edge>
+      <edge id="401" source="84" target="174"></edge>
+      <edge id="402" source="84" target="175"></edge>
+      <edge id="403" source="84" target="139"></edge>
+      <edge id="404" source="84" target="267"></edge>
+      <edge id="405" source="85" target="136"></edge>
+      <edge id="406" source="85" target="174"></edge>
+      <edge id="407" source="85" target="175"></edge>
+      <edge id="408" source="85" target="306"></edge>
+      <edge id="409" source="85" target="177"></edge>
+      <edge id="410" source="86" target="136"></edge>
+      <edge id="411" source="86" target="174"></edge>
+      <edge id="412" source="86" target="175"></edge>
+      <edge id="413" source="86" target="298"></edge>
+      <edge id="414" source="87" target="259"></edge>
+      <edge id="415" source="87" target="165"></edge>
+      <edge id="416" source="88" target="165"></edge>
+      <edge id="417" source="88" target="234"></edge>
+      <edge id="418" source="89" target="14"></edge>
+      <edge id="419" source="89" target="26"></edge>
+      <edge id="420" source="89" target="88"></edge>
+      <edge id="421" source="89" target="8"></edge>
+      <edge id="422" source="89" target="10"></edge>
+      <edge id="423" source="89" target="87"></edge>
+      <edge id="424" source="89" target="9"></edge>
+      <edge id="425" source="89" target="106"></edge>
+      <edge id="426" source="89" target="118"></edge>
+      <edge id="427" source="89" target="307"></edge>
+      <edge id="428" source="90" target="308"></edge>
+      <edge id="429" source="92" target="136"></edge>
+      <edge id="430" source="92" target="174"></edge>
+      <edge id="431" source="92" target="154"></edge>
+      <edge id="432" source="92" target="139"></edge>
+      <edge id="433" source="92" target="155"></edge>
+      <edge id="434" source="93" target="136"></edge>
+      <edge id="435" source="93" target="165"></edge>
+      <edge id="436" source="93" target="96"></edge>
+      <edge id="437" source="93" target="167"></edge>
+      <edge id="438" source="93" target="309"></edge>
+      <edge id="439" source="93" target="12"></edge>
+      <edge id="440" source="93" target="67"></edge>
+      <edge id="441" source="93" target="91"></edge>
+      <edge id="442" source="95" target="310"></edge>
+      <edge id="443" source="95" target="13"></edge>
+      <edge id="444" source="97" target="96"></edge>
+      <edge id="445" source="97" target="98"></edge>
+      <edge id="446" source="98" target="309"></edge>
+      <edge id="447" source="98" target="97"></edge>
+      <edge id="448" source="99" target="281"></edge>
+      <edge id="449" source="99" target="165"></edge>
+      <edge id="450" source="100" target="281"></edge>
+      <edge id="451" source="100" target="165"></edge>
+      <edge id="452" source="100" target="311"></edge>
+      <edge id="453" source="100" target="312"></edge>
+      <edge id="454" source="101" target="281"></edge>
+      <edge id="455" source="101" target="165"></edge>
+      <edge id="456" source="102" target="281"></edge>
+      <edge id="457" source="102" target="165"></edge>
+      <edge id="458" source="103" target="281"></edge>
+      <edge id="459" source="103" target="165"></edge>
+      <edge id="460" source="104" target="281"></edge>
+      <edge id="461" source="104" target="165"></edge>
+      <edge id="462" source="105" target="281"></edge>
+      <edge id="463" source="105" target="165"></edge>
+      <edge id="464" source="106" target="281"></edge>
+      <edge id="465" source="106" target="165"></edge>
+      <edge id="466" source="107" target="282"></edge>
+      <edge id="467" source="107" target="165"></edge>
+      <edge id="468" source="108" target="282"></edge>
+      <edge id="469" source="108" target="165"></edge>
+      <edge id="470" source="109" target="282"></edge>
+      <edge id="471" source="109" target="165"></edge>
+      <edge id="472" source="109" target="312"></edge>
+      <edge id="473" source="109" target="313"></edge>
+      <edge id="474" source="110" target="282"></edge>
+      <edge id="475" source="110" target="165"></edge>
+      <edge id="476" source="111" target="282"></edge>
+      <edge id="477" source="111" target="165"></edge>
+      <edge id="478" source="112" target="284"></edge>
+      <edge id="479" source="112" target="165"></edge>
+      <edge id="480" source="113" target="284"></edge>
+      <edge id="481" source="113" target="165"></edge>
+      <edge id="482" source="113" target="291"></edge>
+      <edge id="483" source="114" target="284"></edge>
+      <edge id="484" source="114" target="165"></edge>
+      <edge id="485" source="115" target="284"></edge>
+      <edge id="486" source="115" target="165"></edge>
+      <edge id="487" source="115" target="295"></edge>
+      <edge id="488" source="116" target="284"></edge>
+      <edge id="489" source="116" target="165"></edge>
+      <edge id="490" source="117" target="283"></edge>
+      <edge id="491" source="117" target="165"></edge>
+      <edge id="492" source="118" target="283"></edge>
+      <edge id="493" source="118" target="165"></edge>
+      <edge id="494" source="119" target="283"></edge>
+      <edge id="495" source="119" target="165"></edge>
+      <edge id="496" source="120" target="283"></edge>
+      <edge id="497" source="120" target="165"></edge>
+      <edge id="498" source="121" target="283"></edge>
+      <edge id="499" source="121" target="165"></edge>
+      <edge id="500" source="122" target="283"></edge>
+      <edge id="501" source="122" target="165"></edge>
+      <edge id="502" source="123" target="309"></edge>
+      <edge id="503" source="123" target="170"></edge>
+      <edge id="504" source="123" target="314"></edge>
+      <edge id="505" source="123" target="295"></edge>
+      <edge id="506" source="124" target="52"></edge>
+      <edge id="507" source="125" target="94"></edge>
+      <edge id="508" source="126" target="96"></edge>
+      <edge id="509" source="127" target="96"></edge>
+      <edge id="510" source="127" target="170"></edge>
+      <edge id="511" source="129" target="96"></edge>
+      <edge id="512" source="129" target="171"></edge>
+      <edge id="513" source="130" target="74"></edge>
+      <edge id="514" source="131" target="71"></edge>
+      <edge id="515" source="132" target="72"></edge>
+      <edge id="516" source="133" target="81"></edge>
+      <edge id="517" source="134" target="295"></edge>
+      <edge id="518" source="134" target="70"></edge>
+      <edge id="519" source="135" target="80"></edge>
+      <edge id="520" source="136" target="55"></edge>
+      <edge id="521" source="137" target="112"></edge>
+      <edge id="522" source="138" target="284"></edge>
+      <edge id="523" source="138" target="165"></edge>
+      <edge id="524" source="140" target="96"></edge>
+      <edge id="525" source="140" target="315"></edge>
+    </edges>
+  </graph>
+</gexf>
