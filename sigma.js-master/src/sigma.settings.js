@@ -63,7 +63,7 @@
     labelColor: 'node',
     // {string} Indicates how to choose the labels size. Available values:
     //          "fixed", "proportional"
-    labelSize: 'fixed',
+    labelSize: 'proportional',
     // {string} The ratio between the font size of the label and the node size.
     labelSizeRatio: 1.5,
     // {number} The minimum size a node must have to see its label displayed.
